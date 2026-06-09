@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const BASE_URL = 'https://gardening-tips.vercel.app';
+const BASE_URL = 'https://gardening-tips-theta.vercel.app';
 const OUT_DIR = path.join(process.cwd(), 'out');
 
 // Get all article slugs from content directory

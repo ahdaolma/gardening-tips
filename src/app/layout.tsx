@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://gardening-tips.vercel.app"),
+  metadataBase: new URL("https://gardening-tips-theta.vercel.app"),
   title: {
     default: "Gardening Tips | Expert Tips",
     template: "%s | Gardening Tips",
@@ -36,7 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <footer className="bg-white border-t border-gray-200 py-8 mt-16">
           <div className="max-w-6xl mx-auto px-4 text-center text-sm text-gray-500">
-            <p>漏 {new Date().getFullYear()} Gardening Tips. All rights reserved.</p>
+            <p>婕?{new Date().getFullYear()} Gardening Tips. All rights reserved.</p>
             <div className="flex justify-center gap-4 mt-2">
               <a href="/privacy" className="hover:text-blue-600">Privacy Policy</a>
               <a href="/terms" className="hover:text-blue-600">Terms</a>

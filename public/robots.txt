@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://gardening-tips.vercel.app/sitemap.xml
+Sitemap: https://gardening-tips-theta.vercel.app/sitemap.xml
