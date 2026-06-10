@@ -1,5 +1,6 @@
 import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
+import PopularArticles from '@/components/PopularArticles';
 
 const seasons = [
   { name: 'Spring', emoji: '🌸', months: 'Mar-May', color: 'season-spring', tasks: 'Planting, Pruning, Soil Prep' },
@@ -94,6 +95,8 @@ export default async function HomePage() {
         </section>
 
         <AdSlot id='home-middle' />
+
+        <PopularArticles />
 
         {/* Latest */}
         <section className='my-16'>
