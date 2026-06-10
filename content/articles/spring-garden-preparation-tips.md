@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Spring Garden Preparation
 
+![10 Tips for Spring Garden Preparation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 ---
 
 ### 1. Warm Soil with Black Plastic
@@ -61,4 +64,8 @@ Pollinators emerging in early spring (bumblebee queens, solitary bees) are STARV
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
+
 Spring gardening is about timing, not speed. Wait for the soil to warm. Wait for the soil to dry. Harden off transplants. Use row cover for frost protection. And let the forsythia and the soil thermometer — not the calendar — tell you when to act.
+

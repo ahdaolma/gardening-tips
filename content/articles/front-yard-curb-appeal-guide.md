@@ -22,6 +22,9 @@ But the numbers only tell half the story. The Journal of Real Estate Finance and
 
 ## The 5 Elements of Front Yard Design
 
+![The 5 Elements of Front Yard Design](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 ### 1. The Entry Path: Direct, Generous, and Well-Lit
 
 The walkway from street/sidewalk to front door is the single most important hardscape element. A 3-foot-wide concrete sidewalk says "builder grade." A 4-5 foot wide path with curves, landing areas, and material changes says "designed."
@@ -79,6 +82,9 @@ The front door should be the first thing a visitor''s eye lands on. It must cont
 
 ## Foundation Planting by House Style
 
+![Foundation Planting by House Style](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
+
 ### Colonial / Traditional
 Symmetrical, formal. Boxwoods framing the entry. A central walk lined with low hedges. The front door is centered. Plantings mirror each other on either side of the entry. Lavender, boxwood, hydrangea (''Annabelle''), and climbing roses on a centered trellis or arbor. White picket fence optional but classic.
 
@@ -102,6 +108,9 @@ A restrained plant palette reads as intentional. Choose 3-5 colors that repeat:
 Limit flower colors to 2-3 that complement the house color. A beige house: purple, white, and blue flowers. A gray house: pink, white, and burgundy. A red brick house: white, yellow, and soft pink. A white house: anything works — use color boldly.
 
 ## Key Takeaways
+
+![Key Takeaways](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
 
 Curb appeal returns 100-200% of investment at resale — the highest ROI of any home improvement. The entry path should be 4-5 feet wide, generously lit, and lead to a defined landing. Foundation plantings should layer from 6 inches (front) to 6-8 feet (back corners). The front door must contrast with the house and be the visual focal point. A $500 weekend refresh (edging, mulch, door paint, planters, pressure washing) delivers a 5-11% home value increase. And the curb appeal test: stand across the street and ask yourself — does this house look like someone cares about it?
 
@@ -132,3 +141,4 @@ Low-voltage path lights (3-5 lumens each), 6-8 feet apart, staggered in a zigzag
 - [Backyard Landscaping Ideas: Complete Design Guide](/articles/backyard-landscaping-ideas-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
 - [Drought Tolerant Landscaping: Complete Guide](/articles/drought-tolerant-landscaping-guide)
+

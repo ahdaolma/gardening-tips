@@ -20,6 +20,9 @@ A Meyer lemon tree covered in ripe fruit on a snowy January day in Chicago is no
 
 ## Best Dwarf Citrus Varieties for Containers
 
+![Best Dwarf Citrus Varieties for Containers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.nwXQ9tND9fMEm7NWeHHE6wHaLP%3Fr%3D0%26pid%3DApi&f=1&ipt=565edf9c263e90c795827fa39e6a622b435354107862a6f30d56757d55432d2d&ipo=images)
+
+
 All citrus can be grown in containers if started young and root-pruned every 2-3 years, but dwarf varieties grafted onto Flying Dragon (Poncirus trifoliata) rootstock stay naturally compact at 4-6 feet and are far easier to manage.
 
 | Variety | Mature Size | Fruit Season | Cold Tolerance | Best For |
@@ -44,6 +47,9 @@ All citrus can be grown in containers if started young and root-pruned every 2-3
 
 ## The 5-1-1 Soil Mix
 
+![The 5-1-1 Soil Mix](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.cDGtmgSvpS8_xJTfIPCMMwHaE5%3Fr%3D0%26pid%3DApi&f=1&ipt=4fad83f9b931268022569634eb93780b8f6e80295bb95e397055b544a88ceb69&ipo=images)
+
+
 Bagged potting soil is too dense for container citrus — it compacts over time, holds too much water, and suffocates roots. The 5-1-1 mix (popularized by the container citrus community) provides the drainage citrus roots require:
 
 - **5 parts** pine bark fines (1/4-3/8 inch size) — the structural component that creates air pockets and resists compaction for 3-5 years
@@ -61,6 +67,9 @@ Citrus trees need 8-12 hours of direct sun or equivalent artificial light daily.
 **The outdoor summer**: Move the tree outdoors when night temperatures stay above 50°F (mid-May in Zone 5-6, mid-April in Zone 7-8, March in Zone 9+). Start in partial shade for 1 week to harden off — citrus leaves sunburn just like human skin when moved from indoor to full outdoor sun without transition. After the hardening week, move to the sunniest location available. A south-facing patio or driveway with reflected heat is ideal.
 
 ## Watering: The #1 Cause of Container Citrus Death
+
+![Watering: The #1 Cause of Container Citrus Death](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.EoVTgLvU8SQF_UEmHslxMgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=b94e6b77235b7dd2ee32acde39db53ed6bab4060f2928501274cf6359b2082b4&ipo=images)
+
 
 Overwatering kills container citrus faster than any pest, disease, or nutrient deficiency. The symptoms of overwatering and underwatering are nearly identical — yellow leaves, leaf drop — which causes panicked owners to water more, accelerating the root rot.
 
@@ -142,3 +151,4 @@ Prune in early spring (February-March) before the growth flush. Remove: dead bra
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
 - [Dwarf Fruit Trees: Best Varieties for Small Spaces](/articles/dwarf-fruit-trees-guide)
 - [Indoor Plant Care: Complete Guide](/articles/indoor-plant-care-guide)
+

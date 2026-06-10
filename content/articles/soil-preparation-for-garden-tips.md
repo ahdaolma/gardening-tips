@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Better Garden Soil
 
+![10 Tips for Better Garden Soil](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.XbhnuhehqgJvmHl0V6hpOAHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=b992ddb4febce0869a6f169991f94449b995afc0781268e11353a88372bb58b1&ipo=images)
+
+
 ---
 
 ### 1. The Jar Test for Soil Texture
@@ -61,4 +64,8 @@ One teaspoon of healthy soil contains: 1 billion bacteria, 100,000 protozoa, 50,
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9FmLZtZ60hYB6kZ_nLAuJQHaHW%3Fr%3D0%26pid%3DApi&f=1&ipt=1f882d5fdcd158b4ffb96fcf73ad06ca72014743b217e722b0b4337550b7d8f9&ipo=images)
+
+
 The fastest way to improve any soil is: (1) soil test, (2) add 2-3 inches of compost, (3) do not till, (4) mulch, (5) repeat annually. In 3-5 years, soil that was gray, hard clay becomes dark, crumbly, life-filled loam. There are no shortcuts. But the formula always works.
+

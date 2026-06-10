@@ -13,6 +13,9 @@ keywords:
 
 ## DIY System Cost & Time Comparison
 
+![DIY System Cost & Time Comparison](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.I6k8cnzvSCnxdFZz_duhlAHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1c69bad9b0021274e379fbe5a1dbd0019e77757d59f02112b8c5322d32a51094&ipo=images)
+
+
 | System | Cost | Build Time | Plants | Weight (Wet) | Lifespan | Best For |
 |---|---|---|---|---|---|---|
 | Pallet Garden | $30 | 2 hours | 20-30 | 80-120 lbs | 3-5 years | Herbs, annuals |
@@ -25,6 +28,9 @@ keywords:
 
 ## Plants by Wall Orientation
 
+![Plants by Wall Orientation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
+
 | Wall Faces | Sun Hours | Outdoor Best | Indoor Best |
 |---|---|---|---|
 | South | 6-10 hrs, hot | Succulents, rosemary, lavender, strawberries, petunias | — (too hot for most indoor plants against a south window wall) |
@@ -35,6 +41,9 @@ keywords:
 ---
 
 ## Watering Quick Reference
+
+![Watering Quick Reference](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.sFCNWZGxSXfSJgsbJvFnqgHaLH%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1d493765f53ab005f9272a50512ad17ad3ccc188b7780d61009ebda137109a13&ipo=images)
+
 
 | System Type | Summer (75°F+) | Spring/Fall (55-75°F) | Winter (below 55°F) |
 |---|---|---|---|
@@ -81,3 +90,4 @@ Vertical gardens leach nutrients faster than ground gardens because water flows 
 - **Liquid fertilizer:** Fish emulsion (5-1-1, $12) or seaweed extract (0-0-1, $10). Dilute to HALF the recommended strength. Apply every 2 weeks during the growing season. Why half strength? Small soil volume = salt buildup faster. Full strength every 2 weeks causes nutrient burn by week 6.
 - **Slow-release granules:** Osmocote 14-14-14 ($12 for 2 lbs). Mix 1 tablespoon per pocket at planting time. Lasts 3-4 months. Reapply quarterly.
 - **Succulents and cacti:** NO fertilizer. They evolved in nutrient-poor environments. Fertilizing causes etiolation (stretched, weak growth).
+

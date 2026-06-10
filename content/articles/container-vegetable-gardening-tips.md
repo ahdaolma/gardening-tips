@@ -15,9 +15,15 @@ keywords:
 
 ## 1. 1/3 Peat + 1/3 Vermiculite + 1/3 Compost — The Only Soil Mix You Need
 
+![1. 1/3 Peat + 1/3 Vermiculite + 1/3 Compost — The Only Soil Mix You Need](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 Equal parts peat moss (or coir), coarse vermiculite, and blended compost from 5+ sources. Add 1/2 cup organic granular fertilizer per 5 gallons. This mix drains perfectly, holds moisture, and provides complete nutrition for 4-6 weeks. Straight bagged potting mix is too dense and stays wet too long.
 
 ## 2. Match the Pot Size to the Crop — 5 Gallons Is Minimum for Fruiting Vegetables
+
+![2. Match the Pot Size to the Crop — 5 Gallons Is Minimum for Fruiting Vegetables](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
 
 Tomatoes: 10-15 gallons. Peppers: 3-5 gallons. Zucchini: 15-20 gallons. Lettuce/herbs: 1-2 gallons. Beans: 2-5 gallons. The #1 container mistake: trying to grow an indeterm. tomato in a 5-gallon bucket — it fruits but produces 30-50% less than in a 15-gallon container.
 
@@ -58,3 +64,4 @@ First-year cost: $100-$150 for containers, soil, fertilizer, seeds. Annual yield
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
 - [Herb Garden for Beginners: Complete Guide](/articles/herb-garden-for-beginners-guide)
 - [Growing Tomatoes: Complete Guide for Maximum Harvest](/articles/growing-tomatoes-guide)
+

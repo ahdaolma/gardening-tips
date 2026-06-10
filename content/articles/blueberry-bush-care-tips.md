@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Soil pH Must Be 4.5-5.5 — Test Before You Plant, Not After
 
+![1. Soil pH Must Be 4.5-5.5 — Test Before You Plant, Not After](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.iskDOqQNhjcd-8HYfDbWQQHaEt%3Fr%3D0%26pid%3DApi&f=1&ipt=ebf72105612b13593e7ca82bbf89e5e749864b06e9c5a032b267671814ac40e6&ipo=images)
+
+
 Blueberries need acidic soil. Average garden soil is pH 6.0-7.5 — too high. At pH above 5.5, blueberries cannot absorb iron and die of chlorosis within 2-3 years. Test soil ($15 Luster Leaf kit or $10-$25 county extension). Lower pH with elemental sulfur (1.5-2 lbs per 4-foot planting area, applied 6-12 months before planting) or sphagnum peat moss (50:50 mix with native soil for immediate planting).
 
 ## 2. Plant at Least Two Different Varieties — Yield Jumps 30-50%
+
+![2. Plant at Least Two Different Varieties — Yield Jumps 30-50%](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
 
 Blueberries are partially self-fertile but cross-pollination from a second variety that blooms at the same time produces 30-50% more berries that are also larger and ripen earlier. For Northern zones: ''Bluecrop'' + ''Duke'' + ''Elliott'' (extends harvest July-August). For Southern zones: ''Sunshine Blue'' + ''Misty''.
 
@@ -57,3 +63,4 @@ A 16-20 inch pot (15+ gallons) with a mix of 50% peat moss, 25% pine bark, 25% p
 - [Blueberry Bush Care: Complete Growing Guide](/articles/blueberry-bush-care-guide)
 - [Growing Strawberries: Complete Guide for Maximum Harvest](/articles/growing-strawberries-guide)
 - [Dwarf Fruit Trees: Best Varieties for Small Spaces](/articles/dwarf-fruit-trees-guide)
+

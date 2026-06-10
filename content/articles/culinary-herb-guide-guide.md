@@ -25,6 +25,9 @@ keywords:
 
 ## The 20 Essential Culinary Herbs
 
+![The 20 Essential Culinary Herbs](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.HmrJ486KxRFdAAxz0y_i8gHaFx%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=4452f441e483deb847c57b27ddc71e8a1028ce82f42547ba99c517f63c8eca19&ipo=images)
+
+
 ### Basil (Ocimum basilicum) — Annual
 - **Light**: Full sun (6+ hours). Insufficient light = leggy, low-oil leaves.
 - **Soil**: Rich, well-drained. Too much nitrogen = large leaves with diluted flavor.
@@ -116,6 +119,9 @@ The volatile oils that give herbs their flavor and aroma are at peak concentrati
 
 ## Storing Fresh Herbs
 
+![Storing Fresh Herbs](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ImFJrEOG8WquqsazJKdxSQHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=751244111bbc3d1d65a14f893632307bd2adc24c80be0ce4436266b8f55dc20f&ipo=images)
+
+
 | Herb | Best Method | Duration |
 |------|------------|----------|
 | Basil | Stems in water on counter | 1-2 weeks |
@@ -135,6 +141,9 @@ The volatile oils that give herbs their flavor and aroma are at peak concentrati
 Annual herbs (basil, cilantro, dill) grow fast and require succession planting. Perennial herbs (rosemary, thyme, sage, oregano, chives) establish slowly but produce for 5-15+ years. Mint and lemon balm MUST be container-grown or they will consume your garden. Harvest in the morning before heat volatilizes essential oils. The highest flavor concentration is just before flowering. Tender herbs freeze in oil; woody herbs dry. And for best results, use 3x the amount of fresh herbs that a recipe calls for in dried — the flavor difference is that significant.
 
 ## Frequently Asked Questions
+
+![Frequently Asked Questions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.7Nsgh4Vi0U674zUtYgjMCgHaFj%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=4eb597a9a0df0cc5155fe58aa8131688cac09bd5c845588c2ce5b88b3431ae32&ipo=images)
+
 
 ### Why is my basil turning yellow?
 
@@ -161,3 +170,4 @@ Bring the plant indoors before the first frost. Place in the brightest south-fac
 - [Herb Garden for Beginners: Complete Growing Guide](/articles/herb-garden-for-beginners-guide)
 - [Growing Basil Indoors: Year-Round Harvest Guide](/articles/growing-basil-indoors-guide)
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
+

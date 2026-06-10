@@ -26,6 +26,9 @@ The organisms that do the work, in order of importance:
 
 ## The Carbon-to-Nitrogen Ratio: The Only Rule That Matters
 
+![The Carbon-to-Nitrogen Ratio: The Only Rule That Matters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 Every composting guide mentions "greens and browns." Here is what that actually means, quantified:
 
 - **Greens = Nitrogen-rich materials**. C:N ratio below 30:1. Examples: fresh grass clippings (15:1), vegetable scraps (15-25:1), coffee grounds (20:1), fresh manure (15-20:1).
@@ -50,6 +53,9 @@ Every composting guide mentions "greens and browns." Here is what that actually 
 | Wood ash (small amounts) | Neutral | — | High in potassium. Use sparingly — raises pH. No more than 1 cup per cubic yard of compost. |
 
 ## What to NEVER Compost
+
+![What to NEVER Compost](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
 
 | Material | Why |
 |----------|-----|
@@ -80,6 +86,9 @@ A rotating drum on a stand. Convenient (no pitchfork turning) but has significan
 A ventilated plastic bin (18-gallon Rubbermaid, $10) with 1/4-inch air holes drilled in the lid and upper sides. Fill with shredded newspaper bedding, add 1 lb of red wiggler worms (Eisenia fetida, $30-$40), feed 1/2 lb of kitchen scraps per week. Produces the highest-quality compost (worm castings), but cannot handle yard waste, citrus, onions, or large volumes. Ideal for apartments and indoor composting.
 
 ## The Hot Composting Method (3-Month Timeline)
+
+![The Hot Composting Method (3-Month Timeline)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
 
 **Week 1**: Build the pile all at once — minimum 1 cubic yard (3'' × 3'' × 3''). Layer: 6-inch brown, 2-inch green, repeat. Moisten each layer as you go (like a wrung-out sponge — damp but not dripping). The pile should be moist enough that squeezing a handful produces 1-2 drops of water.
 
@@ -133,3 +142,4 @@ Appearance: dark brown to black, crumbly texture, no recognizable original mater
 - [Soil Preparation for Garden: Complete Guide](/articles/soil-preparation-for-garden-guide)
 - [Natural Fertilizer Guide: Organic Options That Work](/articles/natural-fertilizer-guide-guide)
 - [Raised Bed Gardening: Complete Guide](/articles/raised-bed-gardening-guide)
+

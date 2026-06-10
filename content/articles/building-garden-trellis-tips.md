@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Concrete Reinforcing Wire Is the $25 Trellis Material You Need
 
+![1. Concrete Reinforcing Wire Is the $25 Trellis Material You Need](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.sFCNWZGxSXfSJgsbJvFnqgHaLH%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1d493765f53ab005f9272a50512ad17ad3ccc188b7780d61009ebda137109a13&ipo=images)
+
+
 A 5-foot × 50-foot roll of 6×6-inch mesh ($25 at any hardware store) attached to T-posts builds a 25-foot-long trellis that supports 80+ lbs per section. This is what market farmers use for indeterminate tomatoes, cucumbers, and pole beans. It lasts 20+ years, costs $2 per linear foot, and requires only bolt cutters and heavy-gauge wire to install.
 
 ## 2. Drive T-Posts 24 Inches Deep — 12 Inches Will Fail
+
+![2. Drive T-Posts 24 Inches Deep — 12 Inches Will Fail](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
 
 A mature tomato plant weighs 15-25 lbs. A trellis with 12-inch-deep T-posts will lean 10-15 degrees by August under that load. Minimum depth: 24 inches for all in-ground posts. Use a T-post driver ($25) — not a sledgehammer, which mushrooms the post top. The spade at the bottom must be completely buried for lateral stability.
 
@@ -57,3 +63,4 @@ Plant fast-growing annuals (morning glory, hyacinth bean, black-eyed Susan vine,
 - [How to Build a Garden Trellis: 5 Complete DIY Designs](/articles/building-garden-trellis-guide)
 - [Climbing Plants Guide: Best Vines for Your Garden](/articles/climbing-plants-guide-guide)
 - [Growing Tomatoes: Complete Guide for Maximum Harvest](/articles/growing-tomatoes-guide)
+

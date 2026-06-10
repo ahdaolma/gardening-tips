@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Stop Cutting Everything Down — 30% of Native Bees Nest in Standing Stems
 
+![1. Stop Cutting Everything Down — 30% of Native Bees Nest in Standing Stems](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 Hollow plant stems left over winter shelter native bees. Butterfly pupae overwinter in leaf litter. Birds eat seed heads through February. The new rule: remove what spreads disease, leave what supports life. Ornamental grasses, coneflowers, and sedums stay standing until late winter.
 
 ## 2. Bag Diseased Foliage — Never Compost Tomato, Squash, or Peony Leaves
+
+![2. Bag Diseased Foliage — Never Compost Tomato, Squash, or Peony Leaves](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
 
 Powdery mildew, black spot, blight, and botrytis survive home composting (most piles do not reach 150°F sustained for 3+ days). Bag and dispose of diseased tomato, squash, cucumber, peony, rose, and phlox foliage. Healthy vegetable debris is fine to compost.
 
@@ -57,3 +63,4 @@ Forsythia, lilac, azalea, rhododendron, and bigleaf hydrangeas bloom on last yea
 - [Fall Garden Cleanup: Complete Checklist Guide](/articles/fall-garden-cleanup-guide)
 - [Winter Garden Protection: Frost and Freeze Guide](/articles/winter-garden-protection-guide)
 - [Spring Garden Preparation: Complete Checklist](/articles/spring-garden-preparation-guide)
+

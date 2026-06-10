@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Remove ALL Flowers in Year 1 — Zero Harvest This Year, 3-5x More Next Year
 
+![1. Remove ALL Flowers in Year 1 — Zero Harvest This Year, 3-5x More Next Year](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zf6aW7ClYJw7SdbGA2PZbQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=75cb641d3afff8020f30fe6b88cb35f0cbd8a24fa8018ff70351dc61378afe67&ipo=images)
+
+
 A first-year strawberry allowed to fruit harvests 0.3-0.5 lbs and enters year 2 with weak roots. Remove every flower bud and the plant builds a massive crown — year 2 yield: 1-2 lbs. The total 2-year yield is higher by sacrificing year 1. This is the hardest rule to follow and the most important.
 
 ## 2. ''Albion'' Is the Best Day-Neutral Variety — Produces June Through October
+
+![2. ''Albion'' Is the Best Day-Neutral Variety — Produces June Through October](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
 
 UC Davis''s variety is the industry standard for everbearing/day-neutral strawberries. Large, firm, conical berries with Brix 8-10% (very sweet). Produces steadily June-October, pausing briefly above 90°F. Runner production is minimal — the plant puts energy into fruit, not daughter plants.
 
@@ -58,3 +64,4 @@ Strawberry productivity declines as plants age. June-bearing: renovate annually,
 - [Growing Strawberries: Complete Harvest Guide](/articles/growing-strawberries-guide)
 - [Blueberry Bush Care: Complete Growing Guide](/articles/blueberry-bush-care-guide)
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
+

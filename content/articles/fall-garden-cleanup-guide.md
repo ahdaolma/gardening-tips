@@ -22,6 +22,9 @@ The modern fall cleanup is selective: remove what spreads disease, leave what su
 
 ## The 10-Essential-Task Checklist
 
+![The 10-Essential-Task Checklist](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 ### 1. Remove Diseased Plant Material (and Dispose, Do Not Compost)
 
 Anything with powdery mildew, black spot, rust, or blight must be removed and bagged for municipal disposal — NOT composted. Most home compost piles do not reach the 150°F sustained for 3+ days required to kill fungal pathogens. Composting diseased tomato, squash, and peony foliage spreads the disease to next year''s plants when you apply the compost.
@@ -108,6 +111,9 @@ The single most valuable fall task costs nothing: document what worked and what 
 
 ## Key Takeaways
 
+![Key Takeaways](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
+
 Selective fall cleanup — remove diseased material, leave seed heads and grasses for wildlife. Shred and spread leaves on garden beds. Drain irrigation systems before the first hard freeze. Protect young trees from rodents and sunscald. Empty terracotta pots. Clean and sharpen tools. Plant spring bulbs before the ground freezes. And take notes — they are more valuable than any fertilizer you will buy next spring.
 
 ## Frequently Asked Questions
@@ -134,6 +140,10 @@ Shred them with a lawn mower and (in order of priority): (1) spread on vegetable
 
 ## Related Articles
 
+![Related Articles](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 - [Spring Garden Preparation: Complete Checklist](/articles/spring-garden-preparation-guide)
 - [Winter Garden Protection: Frost and Freeze Guide](/articles/winter-garden-protection-guide)
 - [Composting for Beginners: Complete Guide](/articles/composting-for-beginners-guide)
+

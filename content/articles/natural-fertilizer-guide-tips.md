@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Organic Fertilizer Success
 
+![10 Tips for Organic Fertilizer Success](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.XbhnuhehqgJvmHl0V6hpOAHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=b992ddb4febce0869a6f169991f94449b995afc0781268e11353a88372bb58b1&ipo=images)
+
+
 ---
 
 ### 1. Soil Test Before You Fertilize
@@ -61,4 +64,8 @@ Winter cover crops (legumes like crimson clover, hairy vetch, and field peas) fi
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZJG8_SGUiz-D2LSNbO27UgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=bab7a7a92c3d6574a22fe8e7cf0e58635082c5c8ee54d98cafcfa8e0ebb34740&ipo=images)
+
+
 Organic fertilizing starts with a soil test. Compost builds soil health. Target specific nutrient needs with the right organic fertilizer (N from blood meal/fish, P from bone meal, K from kelp/wood ash). And never apply fresh manure to food crops.
+

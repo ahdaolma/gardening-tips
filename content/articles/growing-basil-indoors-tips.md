@@ -15,9 +15,15 @@ keywords:
 
 ## 1. A $25 LED Shop Light Provides Enough Light for Indoor Basil October-March
 
+![1. A $25 LED Shop Light Provides Enough Light for Indoor Basil October-March](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 A 4-foot LED shop light (4,000-5,000K) hung 6-8 inches above the plant, running 12-14 hours daily on a $8 mechanical timer. Total setup: $33. A south window is NOT sufficient in winter — the sun is too low and daylight too short north of Zone 8.
 
 ## 2. Supermarket Basil Is 20-30 Seedlings in One Pot — Divide It Immediately
+
+![2. Supermarket Basil Is 20-30 Seedlings in One Pot — Divide It Immediately](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
 
 The overcrowded seedlings compete for water and nutrients in 2 cups of soil — they are designed to die. Gently separate the root mass, transplant 4-6 strongest seedlings into individual 4-6 inch pots. Discard the runts. The survivors thrive with their own root space.
 
@@ -58,3 +64,4 @@ Basil is a short-lived perennial. Indoors, with consistent warmth and light, it 
 - [Growing Basil Indoors: Complete Year-Round Guide](/articles/growing-basil-indoors-guide)
 - [Herb Garden for Beginners: Complete Growing Guide](/articles/herb-garden-for-beginners-guide)
 - [Culinary Herb Guide: Complete Reference](/articles/culinary-herb-guide-guide)
+

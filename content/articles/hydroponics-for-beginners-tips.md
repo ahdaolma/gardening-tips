@@ -14,6 +14,9 @@ keywords:
 
 ## System Comparison: Which One Should You Build?
 
+![System Comparison: Which One Should You Build?](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 | System | Cost | Difficulty | Electricity | Best Plants | Maintenance |
 |---|---|---|---|---|---|
 | Kratky | $15-25 | ★☆☆☆☆ | None | Lettuce, herbs, spinach | Refill every 4-6 weeks |
@@ -26,6 +29,9 @@ keywords:
 ---
 
 ## Nutrient Mixing Cheat Sheet
+
+![Nutrient Mixing Cheat Sheet](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
 
 ### General Hydroponics FloraSeries (per gallon of water)
 
@@ -131,3 +137,4 @@ keywords:
 | Grocery equivalent (3 heads organic lettuce): | **$9-$12** |
 
 After the first harvest, you're growing organic lettuce for $0.80/head. Grocery price: $3-$4/head. The math works.
+

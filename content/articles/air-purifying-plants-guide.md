@@ -23,6 +23,9 @@ The headline finding — "houseplants remove up to 87% of air toxins in 24 hours
 
 ## The 12 Most Effective Air-Purifying Plants
 
+![The 12 Most Effective Air-Purifying Plants](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.yoXGitdurPelqpnQWT7NcgHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=8f99d268f54c0e610ff818956e8e70ace2e134a8f7007fb49b2576b87b8377d6&ipo=images)
+
+
 ### 1. Snake Plant (Sansevieria trifasciata / Dracaena trifasciata)
 - **Removes**: Benzene, formaldehyde, trichloroethylene, xylene, toluene
 - **Toxins removed in NASA test**: 52.6% of benzene, 26.7% of formaldehyde, 13.4% of trichloroethylene in 24 hours
@@ -127,6 +130,9 @@ For a 1,200 sq ft home, place 15-20 plants across the following zones:
 
 ## Realistic Expectations
 
+![Realistic Expectations](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.9V56iAETTT0GvX3wp4NLNwHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ec1dcacf60c87605036166593d9fa1a04e8927076e98bbe51fefa0f23381d45d&ipo=images)
+
+
 A 2019 review in Building and Environment calculated that to reduce indoor VOC concentrations by 50% using plants alone in a typical 1,200 sq ft home with standard ventilation (0.5 air changes per hour), you would need approximately 680 plants. That is not practical.
 
 What IS practical: placing a Snake Plant and Peace Lily in your bedroom, a Pothos in your home office, and a Boston Fern in your bathroom. This does not replace ventilation, but it does provide a measurable VOC reduction in the microenvironments where you spend the most time. The NASA study was not wrong — it was simply conducted in conditions that do not translate 1:1 to your living room.
@@ -157,6 +163,10 @@ No. Plants filter VOCs (gaseous chemicals), not particulate matter. Allergens li
 
 ## Related Articles
 
+![Related Articles](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.8Y9mOdR6EGh70XcGNP0ehAHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=b0f069c659a4ecf3ddba72e3411a94cfb9b5334108a1fd42e8a9ad584989e274&ipo=images)
+
+
 - [Indoor Plant Care: Complete Guide to Keeping Houseplants Alive](/articles/indoor-plant-care-guide)
 - [Low Light Indoor Plants: Best Species for Dark Rooms](/articles/low-light-indoor-plants-guide)
 - [Hanging Plants Indoor: Best Trailing Species Guide](/articles/hanging-plants-indoor-guide)
+

@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Herb Gardening Tips for Maximum Flavor
 
+![10 Herb Gardening Tips for Maximum Flavor](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 ---
 
 ### 1. Never Fertilize Mediterranean Herbs
@@ -61,4 +64,8 @@ Mint looks like lemon balm. Oregano looks like marjoram. Flat-leaf parsley looks
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
+
 Herbs are cheap to buy as plants, expensive to buy as produce, and nearly free to grow. The difference between a $3 basil plant that dies in 3 weeks and one that produces for 4 months is: harvest frequently, never let it flower, and water consistently. Everything else is details.
+

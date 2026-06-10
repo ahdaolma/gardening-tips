@@ -20,6 +20,9 @@ Sunflower seeds are large enough for a 3-year-old to plant. Germination is 90%+ 
 
 ## Variety Categories
 
+![Variety Categories](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
+
 | Type | Height | Head Size | Days to Bloom | Best For |
 |------|--------|-----------|--------------|----------|
 | Giant | 10-15 ft | 12-24 inches | 75-90 | Competition, garden drama, maximum seed harvest |
@@ -46,6 +49,9 @@ Sunflower seeds are large enough for a 3-year-old to plant. Germination is 90%+ 
 - **''Music Box''**: 24-30 inches. Multicolored branching dwarf — one plant produces 8-15 flowers in cream, yellow, bronze, and bicolor. Perfect for a patio container.
 
 ## Planting
+
+![Planting](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.sFCNWZGxSXfSJgsbJvFnqgHaLH%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1d493765f53ab005f9272a50512ad17ad3ccc188b7780d61009ebda137109a13&ipo=images)
+
 
 ### Timing
 Direct-sow sunflower seeds outdoors when soil temperature reaches 55-60°F — typically 1-2 weeks after the last frost date. Sunflowers germinate best in warm soil (70-75°F), emerging in 7-10 days. Cold, wet soil rots the seeds before germination.
@@ -83,6 +89,9 @@ Giant varieties (10+ feet) need staking in windy sites. Drive a 6-8 foot T-post 
 If growing a row of giants, plant them along a fence or building on the leeward (downwind) side. The structure provides windbreak that reduces snapped stems by 80%+. If no windbreak is available, plant sunflowers in a block (3-4 rows deep) rather than a single row — the outer plants shelter the inner ones.
 
 ## Harvesting Seeds
+
+![Harvesting Seeds](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.I6k8cnzvSCnxdFZz_duhlAHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1c69bad9b0021274e379fbe5a1dbd0019e77757d59f02112b8c5322d32a51094&ipo=images)
+
 
 ### For Eating (Roasted Seeds)
 1. The back of the flower head turns from green to yellow to brown. This takes 30-45 days after petal drop.
@@ -135,3 +144,4 @@ Yes — they are heavy feeders that extract significant nutrients, especially po
 - [Wildflower Meadow Planting: Complete Guide](/articles/wildflower-meadow-planting-guide)
 - [Perennial Flower Garden: Design and Planting Guide](/articles/perennial-flower-garden-guide)
 - [Growing Strawberries: Complete Harvest Guide](/articles/growing-strawberries-guide)
+

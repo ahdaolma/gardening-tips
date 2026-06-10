@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Never Plant the Same Family in the Same Soil in Consecutive Years
 
+![1. Never Plant the Same Family in the Same Soil in Consecutive Years](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.N3b6jZpmalnsWe6YX3BGyQHaEK%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=5bb3fe43bdb721df054ded88db540ed77d8a90832cc9cbe7ee1615a8ca892622&ipo=images)
+
+
 This is the one non-negotiable rule. Tomato → tomato = blight by year 2-3. Brassica → brassica = clubroot that persists 10-20 years. Even a simple 2-year rotation (Family A one year, Family B the next) prevents the worst disease accumulation.
 
 ## 2. Memorize the 4 Plant Families
+
+![2. Memorize the 4 Plant Families](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.RkLpHiPjk0APlwW3-TKUtQHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=fcd56bf252fd2f44b850915d632fa5d80b2c5adf744f810cb4d463b1dc4b32d4&ipo=images)
+
 
 Solanaceae: tomatoes, peppers, eggplant, potatoes. Brassicaceae: cabbage, broccoli, kale, radishes. Fabaceae: beans, peas. Roots/Alliums/Squash: carrots, onions, garlic, squash, cucumbers. Everything else fits into or near these four.
 
@@ -57,3 +63,4 @@ The worst-case scenario: a 10'' × 10'' garden with nothing but tomatoes, year a
 - [Garden Crop Rotation: Complete 4-Year Plan](/articles/garden-crop-rotation-guide)
 - [Companion Planting Guide: Science-Backed Combinations](/articles/companion-planting-guide-guide)
 - [Vegetable Garden Planning: Layout and Timing Guide](/articles/vegetable-garden-planning-guide)
+

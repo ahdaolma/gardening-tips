@@ -20,6 +20,9 @@ A dwarf apple tree on M27 rootstock reaches 6 feet tall and produces 30-60 full-
 
 ## Understanding Rootstocks
 
+![Understanding Rootstocks](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
+
 Fruit trees are almost never grown on their own roots — they are grafted onto rootstocks that control tree size, disease resistance, and soil adaptation. The rootstock is the bottom half (below the graft union, identifiable by a slight swelling or kink near the base of the trunk). The scion is the top half — the variety that produces the fruit.
 
 ### Common Dwarfing Rootstocks
@@ -50,6 +53,9 @@ Deciduous fruit trees require a certain number of hours between 32°F and 45°F 
 | Desert Southwest (Zones 9-10) | 200-500 | Low-chill apples, peaches, figs, pomegranates, citrus. |
 
 ## Best Dwarf Varieties by Fruit Type
+
+![Best Dwarf Varieties by Fruit Type](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zf6aW7ClYJw7SdbGA2PZbQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=75cb641d3afff8020f30fe6b88cb35f0cbd8a24fa8018ff70351dc61378afe67&ipo=images)
+
 
 ### Apples
 - **''Honeycrisp'' on M26**: 8-10 ft. The most popular apple in America. Crisp, juicy, sweet-tart. Needs a pollinator (''Gala'', ''Fuji'', or crabapple).
@@ -101,6 +107,9 @@ Most fruit trees are not self-fertile — they require pollen from a different v
 
 ## Pruning for Size Control
 
+![Pruning for Size Control](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.iskDOqQNhjcd-8HYfDbWQQHaEt%3Fr%3D0%26pid%3DApi&f=1&ipt=ebf72105612b13593e7ca82bbf89e5e749864b06e9c5a032b267671814ac40e6&ipo=images)
+
+
 Dwarf trees still need annual pruning to maintain their compact form and maximize fruit production. The goal: keep the tree to 6-8 feet with an open center (for stone fruits — peaches, plums, cherries) or a central leader (for apples and pears).
 
 **Summer pruning (July-August) reduces vigor**: Cutting back new growth in summer redirects the tree''s energy away from vegetative growth and toward fruit bud formation for the following year. This is the single most effective technique for keeping a dwarf tree small.
@@ -150,3 +159,4 @@ Three likely causes: (1) Insufficient thinning — fruit trees naturally set mor
 - [Citrus Trees in Containers: Complete Care Guide](/articles/citrus-tree-in-containers-guide)
 - [Blueberry Bush Care: Complete Growing Guide](/articles/blueberry-bush-care-guide)
 - [Growing Strawberries: Complete Harvest Guide](/articles/growing-strawberries-guide)
+

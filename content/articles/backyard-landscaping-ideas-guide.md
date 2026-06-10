@@ -20,6 +20,9 @@ But ROI is not why most people landscape. The American Society of Landscape Arch
 
 ## The Three Design Principles Every Landscape Architect Uses
 
+![The Three Design Principles Every Landscape Architect Uses](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
+
 ### 1. The Rule of Thirds
 
 Divide your yard visually into three horizontal bands: foreground (0-10 feet from viewing point), middle ground (10-30 feet), and background (30+ feet). Each band should have a different height layer. Foreground: ground covers, low perennials (6-18 inches). Middle ground: shrubs and ornamental grasses (2-4 feet). Background: small trees and tall evergreens (6-15 feet). This creates depth and makes a 40-foot yard feel like 60 feet.
@@ -73,6 +76,9 @@ The standard entry-level professional hardscape project. A 300 sq ft paver patio
 
 ## Plant Selection by USDA Zone
 
+![Plant Selection by USDA Zone](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 | Zone | Best Perennials | Best Shrubs | Best Trees | Challenges |
 |------|----------------|-------------|------------|------------|
 | 3-4 | Coneflower, Hosta, Daylily, Russian Sage | Hydrangea (panicle), Ninebark, Dogwood | Crabapple, Serviceberry, Birch | Short growing season (90-120 days) |
@@ -91,6 +97,9 @@ The standard entry-level professional hardscape project. A 300 sq ft paver patio
 | Brick | $15-$25 | 50+ years | Re-point mortar every 10-15 years |
 
 ## Landscape Lighting: The $2,500 Upgrade That Transforms Everything
+
+![Landscape Lighting: The $2,500 Upgrade That Transforms Everything](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
 
 A yard lit only by a porch light is a yard you never use after sunset. Low-voltage LED landscape lighting transforms a backyard from a daytime-only space to a 24-hour retreat.
 
@@ -137,3 +146,4 @@ A slope over 5% requires terracing or retaining walls. Retaining walls over 3 fe
 - [Drought Tolerant Landscaping: Complete Guide](/articles/drought-tolerant-landscaping-guide)
 - [Front Yard Curb Appeal: Design and Planting Guide](/articles/front-yard-curb-appeal-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

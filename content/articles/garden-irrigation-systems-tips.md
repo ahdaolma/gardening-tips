@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Drip Irrigation Is 90-95% Efficient — Sprinklers Waste 40-50%
 
+![1. Drip Irrigation Is 90-95% Efficient — Sprinklers Waste 40-50%](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9FmLZtZ60hYB6kZ_nLAuJQHaHW%3Fr%3D0%26pid%3DApi&f=1&ipt=1f882d5fdcd158b4ffb96fcf73ad06ca72014743b217e722b0b4337550b7d8f9&ipo=images)
+
+
 Drip delivers water directly to roots. Sprinklers lose nearly half to evaporation and wind. On a 200 sq ft garden, drip saves 300-500 gallons per week in summer — paying back the $80-$150 DIY cost in water savings within one season.
 
 ## 2. Four Components Must Come Before Any Tubing
+
+![2. Four Components Must Come Before Any Tubing](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZJG8_SGUiz-D2LSNbO27UgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=bab7a7a92c3d6574a22fe8e7cf0e58635082c5c8ee54d98cafcfa8e0ebb34740&ipo=images)
+
 
 Backflow preventer ($8-$15) → pressure regulator ($12-$18, 25-30 PSI) → filter ($10-$15, 150-200 mesh) → timer ($30-$80). Skipping any of these guarantees failure: blown emitters (no regulator), clogged emitters (no filter), code violation (no backflow), or dead plants (no timer).
 
@@ -58,3 +64,4 @@ A 2-3 inch mulch layer over mainline tubing blocks UV light that makes tubing br
 - [Garden Irrigation Systems: Complete DIY Guide](/articles/garden-irrigation-systems-guide)
 - [Summer Watering Tips: Complete Guide](/articles/summer-watering-tips-guide)
 - [Raised Bed Gardening: Complete Setup Guide](/articles/raised-bed-gardening-guide)
+

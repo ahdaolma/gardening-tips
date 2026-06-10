@@ -20,6 +20,9 @@ A quality pair of bypass pruners (Felco F-2, $65) lasts 20-30 years with annual 
 
 ## The 15-Minute Annual Maintenance Routine
 
+![The 15-Minute Annual Maintenance Routine](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
+
 ### Step 1: Remove Dirt and Sap (5 minutes)
 
 Dirt holds moisture against metal, causing rust. Sap hardens and prevents blades from closing fully. Tools used for pruning diseased plants carry pathogens into next year''s cuts.
@@ -76,6 +79,9 @@ A sharp tool cuts cleanly through plant tissue. A dull tool crushes and tears â€
 
 ## Tool-Specific Tips
 
+![Tool-Specific Tips](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 **Bypass pruners (Felco, Corona, ARS)**: The #1 cause of poor cuts: the blades are not meeting properly. The bypass blade should pass the anvil with the thickness of a sheet of paper between them. If there is a gap, tighten the pivot bolt. If the blades overlap too tightly (grinding sound), loosen slightly. Replacement blades are available for quality brands â€” a $15 Felco blade transforms 15-year-old pruners into new condition.
 
 **Loppers**: Same sharpening technique as pruners. The long handles provide leverage â€” do not use loppers to cut branches thicker than the manufacturer''s rated capacity (typically 1.5-2 inches for bypass loppers). Cutting oversized branches bends the blades, creating a permanent gap.
@@ -89,6 +95,9 @@ A sharp tool cuts cleanly through plant tissue. A dull tool crushes and tears â€
 30 minutes annually maintains $200+ in garden tools for decades. The routine: wire-brush dirt, alcohol-clean sap, sandpaper rust, file-sharpen blades, oil metal and wood, hang to store. Bypass pruner blades are only sharpened on the beveled side. Shovels and hoes get a 45-degree working edge. The oiled-sand-bucket is the simplest all-in-one cleaning, sharpening, and rust-prevention solution for shovels and trowels.
 
 ## Frequently Asked Questions
+
+![Frequently Asked Questions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
 
 ### How often should I sharpen pruners?
 
@@ -115,3 +124,4 @@ Yes â€” every metal surface, not just the cutting edge. A light film of linseed 
 - [DIY Garden Projects: 10 Weekend Builds](/articles/DIY-garden-projects-guide)
 - [Fall Garden Cleanup: Complete Checklist](/articles/fall-garden-cleanup-guide)
 - [Spring Garden Preparation: Complete Guide](/articles/spring-garden-preparation-guide)
+

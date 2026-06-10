@@ -29,6 +29,9 @@ Drip irrigation delivers water directly to the root zone at 90-95% efficiency. O
 
 ## System 1: Drip Irrigation — The Gold Standard
 
+![System 1: Drip Irrigation — The Gold Standard](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9FmLZtZ60hYB6kZ_nLAuJQHaHW%3Fr%3D0%26pid%3DApi&f=1&ipt=1f882d5fdcd158b4ffb96fcf73ad06ca72014743b217e722b0b4337550b7d8f9&ipo=images)
+
+
 Drip irrigation uses polyethylene tubing with pressure-compensating emitters that release water at a specific rate (0.5, 1.0, or 2.0 gallons per hour) regardless of the tubing length or elevation changes.
 
 ### Components of a Basic Drip System
@@ -81,6 +84,9 @@ Soaker hoses are porous rubber hoses that weep water along their entire length. 
 
 ## System 3: Overhead Sprinklers — For Lawns Only
 
+![System 3: Overhead Sprinklers — For Lawns Only](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZJG8_SGUiz-D2LSNbO27UgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=bab7a7a92c3d6574a22fe8e7cf0e58635082c5c8ee54d98cafcfa8e0ebb34740&ipo=images)
+
+
 Oscillating and impact sprinklers are appropriate for lawns and large ground-cover areas. They are inappropriate for vegetable gardens and ornamental beds for three reasons:
 
 1. **Foliar disease**: Wet leaves are required for fungal spore germination. Tomatoes, squash, roses, and phlox are particularly susceptible. Overhead watering guarantees wet foliage.
@@ -104,6 +110,9 @@ Oscillating and impact sprinklers are appropriate for lawns and large ground-cov
 - New plantings (first 4 weeks): 15-20 minutes daily, then transition to the schedule above.
 
 ## Common Installation Mistakes
+
+![Common Installation Mistakes](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.XbhnuhehqgJvmHl0V6hpOAHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=b992ddb4febce0869a6f169991f94449b995afc0781268e11353a88372bb58b1&ipo=images)
+
 
 | Mistake | Consequence | Fix |
 |---------|------------|-----|
@@ -145,3 +154,4 @@ Yes — this is actually ideal. Mulch hides the tubing, prevents UV degradation 
 - [Summer Watering Tips: Complete Guide](/articles/summer-watering-tips-guide)
 - [Raised Bed Gardening: Complete Setup Guide](/articles/raised-bed-gardening-guide)
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
+

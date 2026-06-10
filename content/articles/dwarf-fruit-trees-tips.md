@@ -15,9 +15,15 @@ keywords:
 
 ## 1. The Rootstock Controls Everything — Know What You Are Buying
 
+![1. The Rootstock Controls Everything — Know What You Are Buying](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
+
 Apple on M27: 4-6 ft, needs permanent staking. Apple on M9: 6-8 ft. Peach on Pixy: 5-6 ft. Cherry on Gisela 5: 6-8 ft. The tag should list the rootstock. If it only says "dwarf" without naming the rootstock, it is probably on semi-dwarf roots and will reach 12-15 ft — not a patio tree.
 
 ## 2. Check Chill Hours Before Buying — Wrong Climate = No Fruit
+
+![2. Check Chill Hours Before Buying — Wrong Climate = No Fruit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zf6aW7ClYJw7SdbGA2PZbQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=75cb641d3afff8020f30fe6b88cb35f0cbd8a24fa8018ff70351dc61378afe67&ipo=images)
+
 
 An apple needing 800 chill hours planted in Zone 9 (200-400 chill hours) will never bloom properly. Low-chill varieties for warm climates: ''Anna'' apple (200 hrs), ''Dorsett Golden'' apple (100 hrs), ''Flordaprince'' peach (100 hrs). High-chill varieties for cold climates: nearly any standard apple, pear, or cherry works in Zones 4-6.
 
@@ -58,3 +64,4 @@ Dwarfing rootstock shifts the tree''s energy from vegetative growth (wood) to re
 - [Dwarf Fruit Trees: Complete Variety & Rootstock Guide](/articles/dwarf-fruit-trees-guide)
 - [Blueberry Bush Care: Complete Growing Guide](/articles/blueberry-bush-care-guide)
 - [Citrus Trees in Containers: Complete Care Guide](/articles/citrus-tree-in-containers-guide)
+

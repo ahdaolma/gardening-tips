@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Thriving Succulents
 
+![10 Tips for Thriving Succulents](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.Q8FFz7xXmfqTs_8YdfICxQHaEJ%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f963eb3278c22df90628b1c2a8c812eda0459e49a74c4f18845a277688c8c8a&ipo=images)
+
+
 ---
 
 ### 1. Soak and Dry — No Sips
@@ -61,4 +64,8 @@ Commercial succulent tags say "water weekly" because: (1) they assume the plant 
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.XEFMfNKb7VSwz42N9jWq_QHaEO%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=2ffd52708b472fa9be8810d0d0d40640a6380f04d59020b435f6334dae7c326a&ipo=images)
+
+
 Succulents are the camels of the plant world — they store water and survive drought. Treat them like camels, not goldfish. Gritty soil, terra cotta pot, bright light, and water only when leaves show slight thirst. The less you do, the better they do.
+

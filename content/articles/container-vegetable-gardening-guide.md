@@ -21,6 +21,9 @@ The disadvantages: containers dry out fast, nutrients flush out with frequent wa
 
 ## Container Size Requirements by Crop
 
+![Container Size Requirements by Crop](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 | Crop | Minimum Container Size | Recommended Size | Plants Per Container | Yield Per Container |
 |------|----------------------|-----------------|---------------------|-------------------|
 | Determinate Tomato | 5 gallons | 10-15 gallons | 1 | 8-12 lbs |
@@ -58,6 +61,9 @@ Mix thoroughly. Add 1/2 cup of balanced organic granular fertilizer (Espoma Gard
 
 ## Watering: The Daily Non-Negotiable
 
+![Watering: The Daily Non-Negotiable](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
+
 Container vegetables in summer sun need water daily — sometimes twice daily in 90°F+ heat and terracotta pots (which wick moisture). A 5-gallon tomato container in July consumes 0.5-1 gallon of water per day.
 
 **The self-watering solution**: A 5-gallon bucket with a reservoir system (drill a 1-inch hole 4 inches from the bottom, insert a overflow tube, fill the bottom 4 inches with water, wick water upward through soil in a perforated inner bucket). This reduces watering frequency from daily to every 3-5 days. DIY cost: $8 per bucket (bucket + PVC pipe + plastic cup for wicking). Commercial version: EarthBox ($50) or City Pickers ($35). The self-watering container is the single best investment for container vegetable gardening — it eliminates the #1 cause of container garden failure (inconsistent watering).
@@ -78,6 +84,9 @@ Container vegetables are heavy feeders because frequent watering flushes nutrien
 **Over-fertilization signs**: Leaf tip burn, excessively dark green leaves, lots of foliage but few flowers/fruit (too much nitrogen). If you see these, flush the container with 2-3x its volume in water and skip the next 2 scheduled feedings.
 
 ## Best Container-Specific Varieties
+
+![Best Container-Specific Varieties](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
 
 Plant breeders have developed compact varieties specifically for containers. These are not just regular varieties in small pots — they are bred to stay compact while producing full-sized fruit.
 
@@ -135,3 +144,4 @@ Yes, if the container is deep enough. Carrots: minimum 8-inch depth for short va
 - [Citrus Trees in Containers: Complete Care Guide](/articles/citrus-tree-in-containers-guide)
 - [Herb Garden for Beginners: Complete Guide](/articles/herb-garden-for-beginners-guide)
 - [Growing Tomatoes: Complete Guide for Maximum Harvest](/articles/growing-tomatoes-guide)
+

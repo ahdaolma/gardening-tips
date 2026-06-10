@@ -22,6 +22,9 @@ The basil plant you buy at the grocery store — a dense cluster of 20-30 seedli
 
 ## Light: The Non-Negotiable Requirement
 
+![Light: The Non-Negotiable Requirement](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 Basil is a full-sun Mediterranean herb. It requires a minimum of 6 hours of direct sunlight or 12-14 hours of artificial light daily. A south-facing windowsill (Northern Hemisphere) is adequate from April through September. From October through March, the sun is too low and daylight hours too short — even a south-facing window needs supplemental light.
 
 ### Grow Light Options (Ranked by Value)
@@ -56,6 +59,9 @@ Basil is a full-sun Mediterranean herb. It requires a minimum of 6 hours of dire
 
 ## Soil, Water, and Fertilizer
 
+![Soil, Water, and Fertilizer](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 ### Soil
 A fast-draining mix is essential. 50% quality potting mix + 30% perlite + 20% compost. Basil roots rot in heavy, water-retentive soil. A 6-8 inch pot with multiple drainage holes is large enough for one full-sized basil plant. Do not use a pot without drainage holes — basil is unforgiving of wet feet.
 
@@ -79,6 +85,9 @@ The key to indoor basil that produces for 6-12 months (not 6-8 weeks) is harvest
 4. **Harvest regularly — at least weekly**: Regular harvesting is the growth stimulus. A basil plant that is never harvested bolts (flowers) and declines within 2-3 months. A regularly harvested basil plant remains in vegetative (leaf-producing) mode for 12+ months.
 
 ## Preventing Flowering
+
+![Preventing Flowering](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
 
 Once basil flowers, leaf production drops by 70-90% as the plant redirects energy to seed production. The leaves that remain are smaller, tougher, and less flavorful. Indoor basil under grow lights is especially prone to flowering because the consistent 12-14 hour photoperiod mimics the long days of summer that trigger the flowering response.
 
@@ -128,3 +137,4 @@ Insufficient light is the #1 cause. Essential oil concentration is directly prop
 - [Herb Garden for Beginners: Complete Growing Guide](/articles/herb-garden-for-beginners-guide)
 - [Culinary Herb Guide: Complete Reference](/articles/culinary-herb-guide-guide)
 - [Indoor Plant Care: Complete Guide](/articles/indoor-plant-care-guide)
+

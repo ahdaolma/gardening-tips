@@ -27,6 +27,9 @@ The rest of this guide focuses on combinations with research support, not just t
 
 ## The Three Sisters: 5,000 Years of Proof
 
+![The Three Sisters: 5,000 Years of Proof](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.N3b6jZpmalnsWe6YX3BGyQHaEK%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=5bb3fe43bdb721df054ded88db540ed77d8a90832cc9cbe7ee1615a8ca892622&ipo=images)
+
+
 The Indigenous American "Three Sisters" system — corn, beans, and squash planted together — is the oldest and most thoroughly validated companion planting system on Earth. The corn provides a trellis for the beans. The beans (as legumes) fix nitrogen in the soil, feeding the nitrogen-hungry corn. The squash sprawls across the ground, shading out weeds and conserving soil moisture with its large leaves. The spiny squash stems also deter raccoons and other pests.
 
 **How to plant Three Sisters**:
@@ -83,6 +86,9 @@ The Indigenous American "Three Sisters" system — corn, beans, and squash plant
 
 ## Plants That Belong in Every Garden (Not Crop-Specific)
 
+![Plants That Belong in Every Garden (Not Crop-Specific)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.RkLpHiPjk0APlwW3-TKUtQHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=fcd56bf252fd2f44b850915d632fa5d80b2c5adf744f810cb4d463b1dc4b32d4&ipo=images)
+
+
 | Plant | Function | Where to Plant | Research Source |
 |-------|----------|---------------|-----------------|
 | French Marigold (Tagetes patula) | Nematode suppression, general pest repellent | Bed borders, between tomato/cucumber rows | 50+ peer-reviewed studies since 1970s |
@@ -103,6 +109,9 @@ The basic 4-year rotation for a 4-bed garden:
 This prevents: (1) soil-borne disease buildup (tomato blight spores survive 3 years in soil), (2) nutrient depletion (each family draws different nutrients), (3) pest population establishment (flea beetles overwinter where brassicas grew last year — they emerge to find legumes instead and starve).
 
 ## The Companion Planting Myths
+
+![The Companion Planting Myths](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.Nmp56tEn5ro_AfwXoezX7wHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=19ee52d1212db2197a1942f0e105d23b64eaea56d9ec3eea6cb0bc4615e2f438&ipo=images)
+
 
 **Myth: "Carrots love tomatoes"** — The Cornell study found no yield benefit. Both grow fine together but do not improve each other. The myth originated from a misinterpretation of intercropping efficiency (they use different soil levels, so you get more total yield per square foot — but neither crop yields more individually).
 
@@ -143,3 +152,4 @@ Yes. Basil and peppers are compatible and basil provides the same mild pest-repe
 - [Vegetable Garden Planning: Layout and Timing Guide](/articles/vegetable-garden-planning-guide)
 - [Organic Pest Control: Natural Methods That Work](/articles/organic-pest-control-guide)
 - [Garden Crop Rotation: Complete Guide](/articles/garden-crop-rotation-guide)
+

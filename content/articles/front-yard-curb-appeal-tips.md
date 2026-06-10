@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Paint the Front Door a Contrasting Color — a $60 Upgrade Worth $2,100
 
+![1. Paint the Front Door a Contrasting Color — a $60 Upgrade Worth $2,100](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 NAR data shows a new front door returns 175% ROI. A can of paint does the same thing for $60. Navy, black, red, dark green, or deep teal — anything that contrasts with the house color. A white door on a beige house is invisible. The door must be the focal point.
 
 ## 2. Edge Every Bed and Walkway — Clean Lines Are 40% of Perceived Quality
+
+![2. Edge Every Bed and Walkway — Clean Lines Are 40% of Perceived Quality](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
 
 A sharp spade edge along every bed, walk, and driveway border defines the line between "maintained" and "neglected." This is a zero-cost, two-hour task that transforms curb appeal more than any planting can. Do this before mulching, before planting, before anything else.
 
@@ -58,3 +64,4 @@ If the answer is no, start with edging, mulch, and the front door. Those three t
 - [Front Yard Curb Appeal: Complete Design & ROI Guide](/articles/front-yard-curb-appeal-guide)
 - [Backyard Landscaping Ideas: Complete Design Guide](/articles/backyard-landscaping-ideas-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

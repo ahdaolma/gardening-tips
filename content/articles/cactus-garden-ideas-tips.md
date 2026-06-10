@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Soil Must Be 50-70% Inorganic — Potting Soil Kills Cacti
 
+![1. Soil Must Be 50-70% Inorganic — Potting Soil Kills Cacti](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.XEFMfNKb7VSwz42N9jWq_QHaEO%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=2ffd52708b472fa9be8810d0d0d40640a6380f04d59020b435f6334dae7c326a&ipo=images)
+
+
 Cactus roots rot in soil that holds water more than 48 hours. The mix: 60% pumice or perlite, 20% coarse builder''s sand, 20% compost or potting soil. Never use bagged "cactus mix" from big-box stores — it is mostly peat moss and compacts within months. For in-ground beds: excavate 18 inches deep and mix native soil 50:50 with gravel and coarse sand.
 
 ## 2. Opuntia humifusa Survives -30°F — Yes, Cacti Grow in Minnesota
+
+![2. Opuntia humifusa Survives -30°F — Yes, Cacti Grow in Minnesota](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.9d5U5U2IckGS3J12oDyYMwHaFj%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=b076a5bc5fca77e5281f5b8bac61a6a2701b48e2f09ab9182c10dd3769488df7&ipo=images)
+
 
 Eastern Prickly Pear is native to 30+ U.S. states including Wisconsin. It produces yellow flowers in June and edible red fruit in September. The secret for cold climates: plant in a raised bed or berm (12-18 inches above grade) with 50% inorganic soil. Snow does not kill cacti — wet soil that freezes and thaws is the killer.
 
@@ -57,3 +63,4 @@ Potted cacti are 1-2 USDA zones less hardy than in-ground plants because the roo
 - [Cactus Garden Ideas: Complete Design & Plant Guide](/articles/cactus-garden-ideas-guide)
 - [Drought Tolerant Landscaping: Complete Guide](/articles/drought-tolerant-landscaping-guide)
 - [Succulent Care Guide: Tips for Thriving Succulents](/articles/succulent-care-guide-guide)
+

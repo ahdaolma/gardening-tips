@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips from Integrated Pest Management (IPM)
 
+![10 Tips from Integrated Pest Management (IPM)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9FmLZtZ60hYB6kZ_nLAuJQHaHW%3Fr%3D0%26pid%3DApi&f=1&ipt=1f882d5fdcd158b4ffb96fcf73ad06ca72014743b217e722b0b4337550b7d8f9&ipo=images)
+
+
 ---
 
 ### 1. Scout Weekly — Every Tuesday
@@ -61,4 +64,8 @@ A garden with zero pest damage is a garden with zero beneficial insects, zero po
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZJG8_SGUiz-D2LSNbO27UgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=bab7a7a92c3d6574a22fe8e7cf0e58635082c5c8ee54d98cafcfa8e0ebb34740&ipo=images)
+
+
 Integrated Pest Management means: scout weekly, identify the pest, use the least-toxic effective control first (hose blast, hand removal, soap spray), escalate only when necessary (neem, BT, spinosad), and never spray blooming plants. The goal is management, not elimination.
+

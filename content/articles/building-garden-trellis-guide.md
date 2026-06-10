@@ -22,6 +22,9 @@ The #2 failure mode: using materials that rot or rust. Untreated pine in ground 
 
 ## Material Selection
 
+![Material Selection](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.sFCNWZGxSXfSJgsbJvFnqgHaLH%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1d493765f53ab005f9272a50512ad17ad3ccc188b7780d61009ebda137109a13&ipo=images)
+
+
 | Material | Lifespan | Cost | Best For | Weight Capacity |
 |----------|----------|------|----------|----------------|
 | Cedar (Western Red) | 15-25 years | $$ | Obelisks, tuteurs, A-frames | 50-80 lbs |
@@ -51,6 +54,9 @@ The most viral DIY trellis for good reason — one 16-foot × 50-inch cattle pan
 4. Plant climbing vegetables (cucumbers, pole beans, Malabar spinach, small melons) at the base of each post. Train tendrils onto the panel as they grow.
 
 ## Design 2: The Cedar Obelisk ($60-$100)
+
+![Design 2: The Cedar Obelisk ($60-$100)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
 
 A freestanding pyramid-shaped trellis for flowering vines (clematis, morning glory, sweet pea) and lightweight vegetables. More decorative than functional — max load 30-40 lbs.
 
@@ -83,6 +89,9 @@ The workhorse vegetable trellis. One 25-foot row supports 12 indeterminate tomat
 3. For tomatoes: weave the main stem through the mesh as it grows (the "Florida weave" method). For pole beans: plant seeds 3 inches from the base and direct tendrils to the mesh.
 
 ## Design 4: The Wall-Mounted Fan Trellis ($20-$40)
+
+![Design 4: The Wall-Mounted Fan Trellis ($20-$40)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.I6k8cnzvSCnxdFZz_duhlAHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1c69bad9b0021274e379fbe5a1dbd0019e77757d59f02112b8c5322d32a51094&ipo=images)
+
 
 For training climbing roses, clematis, or espaliered fruit trees against a house or fence. Keeps vines 6-12 inches from the wall (critical for airflow and siding protection).
 
@@ -164,3 +173,4 @@ Use standoff brackets that hold the trellis 6-12 inches from the wall. This gap 
 - [Climbing Plants Guide: Best Vines for Your Garden](/articles/climbing-plants-guide-guide)
 - [Growing Tomatoes: Complete Guide for Maximum Harvest](/articles/growing-tomatoes-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

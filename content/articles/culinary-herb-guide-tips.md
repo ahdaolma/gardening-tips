@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Harvest Herbs in the Morning — Oil Concentration Drops by Midday
 
+![1. Harvest Herbs in the Morning — Oil Concentration Drops by Midday](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.fgDndlLtdLVyuXi649TG5wHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=1188e4a78bf4d6f0dfe1da233ae00bfc54787d9ed947e96dc8a2c46e572a36c6&ipo=images)
+
+
 Essential oils (the compounds that give herbs their flavor and aroma) are at peak concentration in the morning after dew dries but before the sun is high. Mid-afternoon basil has measurably less oil than morning basil. This is a consistent finding across basil, rosemary, thyme, oregano, and mint. Harvest before 10 AM whenever possible.
 
 ## 2. Plant Mint in a Container — Always, Forever, No Exceptions
+
+![2. Plant Mint in a Container — Always, Forever, No Exceptions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
 
 Mint spreads via underground runners and will consume your entire garden within 2-3 years. A 12-inch pot with the rim 2 inches above soil level contains it. Even then, check annually for runners escaping over the rim. The only safe in-ground mint planting: a bottomless container sunk into the ground with 3 inches of rim above soil — this contains 95% of runners.
 
@@ -57,3 +63,4 @@ Sage, oregano, and lavender become woody, sparse, and less productive after 4-5 
 - [Culinary Herb Guide: Complete Growing & Harvesting Reference](/articles/culinary-herb-guide-guide)
 - [Herb Garden for Beginners: Complete Growing Guide](/articles/herb-garden-for-beginners-guide)
 - [Growing Basil Indoors: Year-Round Harvest Guide](/articles/growing-basil-indoors-guide)
+

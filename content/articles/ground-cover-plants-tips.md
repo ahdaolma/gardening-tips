@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Plant at 8-12 Inch Spacing — The "Wait 5 Years" Approach Costs More in Weeding
 
+![1. Plant at 8-12 Inch Spacing — The "Wait 5 Years" Approach Costs More in Weeding](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
+
 At 24-inch spacing, ground covers take 3-4 years to fill in. During those years, you are weeding bare soil weekly. At 12-inch spacing, coverage in 1.5-2 seasons. At 8-inch spacing, coverage in 1-1.5 seasons. The extra plants cost $30-$60 more but save 50+ hours of weeding. Buy the plants.
 
 ## 2. Creeping Thyme Is the Best Stepable Ground Cover — and It Smells Amazing
+
+![2. Creeping Thyme Is the Best Stepable Ground Cover — and It Smells Amazing](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
 
 Thymus serpyllum tolerates light foot traffic (1-2 walks/day), releases fragrance, and covers itself in pink-purple flowers in June-July. Zones 4-9. Full sun. 2-3 inches tall. The one downside: blooming thyme attracts bees — do not plant as a primary walkway near doors or patios.
 
@@ -58,3 +64,4 @@ Steel edging buried 4-6 inches deep creates an underground barrier that surface-
 - [Ground Cover Plants: Complete Species Guide](/articles/ground-cover-plants-guide)
 - [Drought Tolerant Landscaping: Complete Design Guide](/articles/drought-tolerant-landscaping-guide)
 - [Shade Garden Plants: Best Species for Low Light](/articles/shade-garden-plants-guide)
+

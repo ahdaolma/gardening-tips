@@ -15,9 +15,15 @@ keywords:
 
 ## 1. The $45 Cedar Raised Bed (4'' × 8'')
 
+![1. The $45 Cedar Raised Bed (4'' × 8'')](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
+
 Six 1×6 × 8'' cedar boards, four 12-inch 2×4 corner posts, and a box of deck screws. Cedar lasts 8-12 years without treatment. Assembles in 2 hours with a drill and circular saw. Budget alternative: Douglas fir + plastic liner, $65, 4-6 year lifespan.
 
 ## 2. Pallet Vertical Herb Garden — $15, 1 Hour
+
+![2. Pallet Vertical Herb Garden — $15, 1 Hour](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
 
 One heat-treated "HT" pallet (free), landscape fabric stapled to the back/sides/bottom, filled with potting mix, planted with herb seedlings. Keep FLAT for 2 weeks while roots establish, then tilt upright against a wall. Perfect for balconies and small patios — grows 10-15 herbs in 4 sq ft.
 
@@ -58,3 +64,4 @@ A cordless drill ($60-$100), circular saw ($60-$100), level ($15), tape measure 
 - [DIY Garden Projects: Complete Guide With Plans](/articles/DIY-garden-projects-guide)
 - [Raised Bed Gardening: Complete Guide](/articles/raised-bed-gardening-guide)
 - [Building a Garden Trellis: 5 DIY Designs](/articles/building-garden-trellis-guide)
+

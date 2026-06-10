@@ -15,9 +15,15 @@ keywords:
 
 ## 1. The 5-1-1 Soil Mix Beats Any Bagged Potting Soil
 
+![1. The 5-1-1 Soil Mix Beats Any Bagged Potting Soil](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.nwXQ9tND9fMEm7NWeHHE6wHaLP%3Fr%3D0%26pid%3DApi&f=1&ipt=565edf9c263e90c795827fa39e6a622b435354107862a6f30d56757d55432d2d&ipo=images)
+
+
 5 parts pine bark fines (1/4-3/8 inch), 1 part coarse perlite, 1 part peat moss or coir. Add 1 tbsp dolomitic lime + 1 tbsp controlled-release citrus fertilizer per gallon of mix. This drains in seconds and resists compaction for 2-3 years. Bagged potting soil (mostly peat and composted forest products) compacts within 6 months and holds too much water.
 
 ## 2. Terracotta Pots Help Prevent Overwatering
+
+![2. Terracotta Pots Help Prevent Overwatering](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.cDGtmgSvpS8_xJTfIPCMMwHaE5%3Fr%3D0%26pid%3DApi&f=1&ipt=4fad83f9b931268022569634eb93780b8f6e80295bb95e397055b544a88ceb69&ipo=images)
+
 
 Terracotta is porous — it wicks moisture out of the soil, which citrus roots need. Plastic pots work in hot, dry climates but are dangerous in humid or cool regions where soil stays wet too long. Always choose a pot with multiple 1/2-inch drainage holes and elevate it on pot feet so air circulates underneath.
 
@@ -58,3 +64,4 @@ Tap water and fertilizer leave dissolved salts in container soil. Symptoms: brow
 - [Growing Citrus Trees in Containers: Complete Care Guide](/articles/citrus-tree-in-containers-guide)
 - [Dwarf Fruit Trees: Best Varieties for Small Spaces](/articles/dwarf-fruit-trees-guide)
 - [Container Vegetable Gardening: Complete Guide](/articles/container-vegetable-gardening-guide)
+

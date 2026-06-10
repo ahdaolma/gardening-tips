@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Growing Plants in Dark Rooms
 
+![10 Tips for Growing Plants in Dark Rooms](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.kgjvFcgTF7avIDdGYJ6aeQHaD4%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f2d57139ce2ddeca8c86726e7e294930f5d5fbb558df2a60db648fa366e8de0&ipo=images)
+
+
 ---
 
 ### 1. Use a Mirror to Double Your Light
@@ -61,4 +64,8 @@ If you have a true low-light space (north-facing room, 6+ feet from the window) 
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
+
 Low-light gardening is about managing expectations and maximizing what light exists. Clean leaves, use mirrors, rotate plants, and water sparingly. If nothing grows: add a $20 grow light. Physics cannot be negotiated — plants need photons. But they need far fewer than most people think.
+

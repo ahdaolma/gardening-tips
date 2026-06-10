@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for a Stunning Shade Garden
 
+![10 Tips for a Stunning Shade Garden](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.fgDndlLtdLVyuXi649TG5wHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=1188e4a78bf4d6f0dfe1da233ae00bfc54787d9ed947e96dc8a2c46e572a36c6&ipo=images)
+
+
 ---
 
 ### 1. The Chartreuse Trick
@@ -61,4 +64,8 @@ Turfgrass needs 4-6 hours of direct sun. Under trees, grass thins out and eventu
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
+
 Shade gardening is not about finding flowers that bloom in the dark — it is about foliage. Texture, color, form. Chartreuse foliage lights up dark corners. Silver and variegation add depth. And the secret to under-tree planting: do not amend the soil, do not bury roots, and choose plants that evolved for exactly these conditions.
+

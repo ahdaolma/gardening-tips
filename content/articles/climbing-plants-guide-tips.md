@@ -14,9 +14,15 @@ keywords:
 
 ## 1. Match the Vine''s Climbing Method to Your Support — Or It Will Fail
 
+![1. Match the Vine''s Climbing Method to Your Support — Or It Will Fail](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
+
 Twining vines (wisteria, honeysuckle) need poles or wires 1/2-2 inches thick. Tendril vines (clematis, sweet pea) need thin supports 1/4-1/2 inch — trellis netting, chicken wire, bamboo stakes. Scramblers (climbing roses) must be physically tied. A wisteria on thin netting will pull it down. A clematis on a 4×4 post cannot grip it.
 
 ## 2. Clematis Pruning Is 3 Groups — Memorize Yours Before Cutting
+
+![2. Clematis Pruning Is 3 Groups — Memorize Yours Before Cutting](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.sFCNWZGxSXfSJgsbJvFnqgHaLH%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1d493765f53ab005f9272a50512ad17ad3ccc188b7780d61009ebda137109a13&ipo=images)
+
 
 Group 1: prune after spring bloom (remove dead only). Group 2: prune lightly in February to top pair of fat buds. Group 3: prune HARD in February to 12-18 inches from the ground. Prune a Group 2 like Group 3 = no flowers for 1-2 years. Your plant tag should list the group.
 
@@ -57,3 +63,4 @@ English ivy, Japanese honeysuckle, kudzu, Oriental bittersweet, porcelain berry,
 - [Climbing Plants Guide: Best Vines for Your Garden](/articles/climbing-plants-guide-guide)
 - [How to Build a Garden Trellis: 5 DIY Designs](/articles/building-garden-trellis-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

@@ -22,6 +22,9 @@ But cactus gardens are not just for the Southwest. Cold-hardy cacti (Opuntia, Ec
 
 ## 3 Design Styles
 
+![3 Design Styles](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.XEFMfNKb7VSwz42N9jWq_QHaEO%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=2ffd52708b472fa9be8810d0d0d40640a6380f04d59020b435f6334dae7c326a&ipo=images)
+
+
 ### Style 1: Desert Botanical Garden (Zones 8-11)
 The classic Southwest look. Saguaros, barrel cacti, and prickly pears arranged among decomposed granite and boulders. This style requires zero supplemental water once established (after the first 6-12 months).
 
@@ -65,6 +68,9 @@ Cactus roots rot in soil that holds water for more than 24-48 hours. The ideal c
 
 ## Watering: The Rule That Reverses Every Gardening Instinct
 
+![Watering: The Rule That Reverses Every Gardening Instinct](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.Q8FFz7xXmfqTs_8YdfICxQHaEJ%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f963eb3278c22df90628b1c2a8c812eda0459e49a74c4f18845a277688c8c8a&ipo=images)
+
+
 **Summer (growing season, April-September)**:
 - Water deeply but infrequently. Soak the soil completely (water running out of container drainage holes, or 1-2 gallons per in-ground plant), then let the soil dry completely before watering again. In 90°F+ heat, this might mean every 7-10 days. In 70-80°F, every 2-3 weeks.
 - The squeeze test: grab a handful of soil from 3 inches below the surface. Squeeze it. If it forms a ball that holds together, do NOT water. If it crumbles, water deeply.
@@ -88,6 +94,9 @@ Cactus spines are modified leaves — they evolved to protect the plant from her
 6. Do NOT water for 7-10 days after planting. Roots damaged during transplanting need time to callus over. Watering immediately introduces pathogens into open root wounds and causes rot within 2-3 weeks.
 
 ## Fertilizing Cacti
+
+![Fertilizing Cacti](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.9d5U5U2IckGS3J12oDyYMwHaFj%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=b076a5bc5fca77e5281f5b8bac61a6a2701b48e2f09ab9182c10dd3769488df7&ipo=images)
+
 
 Cacti evolved in nutrient-poor soils and require very little fertilizer. Over-fertilization causes rapid, weak growth — elongated, pale, structurally unsound stems that snap under their own weight or fail to survive winter.
 
@@ -132,3 +141,4 @@ Yes, but patience is required. Saguaro seeds take 15-30 days to germinate and th
 - [Drought Tolerant Landscaping: Complete Guide](/articles/drought-tolerant-landscaping-guide)
 - [Succulent Care Guide: Tips for Thriving Succulents](/articles/succulent-care-guide-guide)
 - [Propagating Succulents: Step-by-Step Guide](/articles/propagating-succulents-guide)
+

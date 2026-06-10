@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Rose Care Tips from Experienced Rosarians
 
+![10 Rose Care Tips from Experienced Rosarians](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.fgDndlLtdLVyuXi649TG5wHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=1188e4a78bf4d6f0dfe1da233ae00bfc54787d9ed947e96dc8a2c46e572a36c6&ipo=images)
+
+
 ---
 
 ### 1. Banana Peels at Planting Time
@@ -61,4 +64,8 @@ Most roses are grafted — a desirable top variety is grafted onto a vigorous ro
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
+
 The difference between a sad rose with 3 blooms and a spectacular one with 50 is: water at the base (never on leaves), alfalfa meal in spring, Epsom salts for basal breaks, and deadhead to the 5-leaflet leaf. Roses reward consistency. A monthly care routine produces 4-5× more flowers than sporadic attention.
+

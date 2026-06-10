@@ -26,6 +26,9 @@ Blueberries are ericaceous plants — they require acidic soil with a pH between
 
 ## Variety Selection by USDA Zone
 
+![Variety Selection by USDA Zone](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.iskDOqQNhjcd-8HYfDbWQQHaEt%3Fr%3D0%26pid%3DApi&f=1&ipt=ebf72105612b13593e7ca82bbf89e5e749864b06e9c5a032b267671814ac40e6&ipo=images)
+
+
 Blueberries are not one plant — they are five distinct species adapted to different climates:
 
 | Species | Zones | Height | Chill Hours | Best Varieties | Notes |
@@ -49,6 +52,9 @@ Blueberries are not one plant — they are five distinct species adapted to diff
 7. **First-year care**: Remove ALL flowers in year 1. This forces energy into root and shoot growth. Harvesting berries in year 1 reduces year 3 yields by 30-50%.
 
 ## Fertilizer Schedule
+
+![Fertilizer Schedule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
 
 Blueberries are light feeders but sensitive to the form of nitrogen. They can only absorb ammonium nitrogen (NH4+), not nitrate nitrogen (NO3-). Use fertilizers labeled for acid-loving plants:
 
@@ -81,6 +87,9 @@ Annual pruning in late winter (February-March, while dormant):
 **The pruning math**: A properly pruned 5-year-old bush has 8-12 canes. Each cane produces 1-2 lbs of berries. A 10-cane bush yields 10-20 lbs annually. Removing 1-2 old canes and 20-30% of weak wood each year maintains this balance indefinitely.
 
 ## Common Problems
+
+![Common Problems](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zf6aW7ClYJw7SdbGA2PZbQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=75cb641d3afff8020f30fe6b88cb35f0cbd8a24fa8018ff70351dc61378afe67&ipo=images)
+
 
 ### Problem: Yellow leaves with green veins
 **Cause**: Iron chlorosis — soil pH above 5.5. **Fix**: Apply elemental sulfur (1 lb per 100 sq ft), water in, mulch with pine bark. Foliar spray with chelated iron as a temporary fix while soil pH adjusts.
@@ -126,3 +135,4 @@ Yes, but not recommended. Blueberry seeds require 90 days of cold stratification
 - [Growing Strawberries: Complete Guide for Maximum Harvest](/articles/growing-strawberries-guide)
 - [Dwarf Fruit Trees: Best Varieties for Small Spaces](/articles/dwarf-fruit-trees-guide)
 - [Composting for Beginners: Complete Guide](/articles/composting-for-beginners-guide)
+

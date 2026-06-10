@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Space Giant Sunflowers 24-36 Inches Apart — Not the 6 Inches on the Packet
 
+![1. Space Giant Sunflowers 24-36 Inches Apart — Not the 6 Inches on the Packet](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.usqCZb_krDBkoaWfee-wlQHaJQ%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ed799959205d4832f17210dbaddeb979e1403771865178aa0fd5dd5ea94d13a1&ipo=images)
+
+
 Crowding is the #1 reason sunflowers fail to reach their potential. At 6-inch spacing, a ''Mammoth Russian'' grows to 4 feet with a 4-inch head. At 30 inches, the same seed reaches 12 feet with an 18-inch head. Root competition stunts sunflowers permanently within the first 4 weeks.
 
 ## 2. The 20 Days Before and After Flowering Are the Critical Watering Window
+
+![2. The 20 Days Before and After Flowering Are the Critical Watering Window](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.I6k8cnzvSCnxdFZz_duhlAHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=1c69bad9b0021274e379fbe5a1dbd0019e77757d59f02112b8c5322d32a51094&ipo=images)
+
 
 During these 40 days, sunflowers need 1.5 inches of water per week. Inconsistent moisture during this window produces heads with empty patches — seeds that did not fill. The rest of the growing season is forgiving. This period is not.
 
@@ -58,3 +64,4 @@ Goldfinches, chickadees, and cardinals feed on standing sunflower heads through 
 - [Growing Sunflowers: Complete Variety & Planting Guide](/articles/growing-sunflowers-guide)
 - [Wildflower Meadow Planting: Complete Guide](/articles/wildflower-meadow-planting-guide)
 - [Perennial Flower Garden: Design and Planting Guide](/articles/perennial-flower-garden-guide)
+

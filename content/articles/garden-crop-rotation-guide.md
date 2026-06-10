@@ -27,6 +27,9 @@ Research from the Rodale Institute''s 40-year Farming Systems Trial found that c
 
 ## The 4 Plant Families Every Gardener Must Know
 
+![The 4 Plant Families Every Gardener Must Know](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.N3b6jZpmalnsWe6YX3BGyQHaEK%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=5bb3fe43bdb721df054ded88db540ed77d8a90832cc9cbe7ee1615a8ca892622&ipo=images)
+
+
 Nearly all common vegetables belong to one of four families. Rotation means moving each family to a different bed each year.
 
 | Family | Common Crops | Nutrient Demand | Primary Diseases | Primary Pests |
@@ -55,6 +58,9 @@ This is the classic rotation used by organic market gardens worldwide. You need 
 
 ## The 3-Year Simplified Rotation
 
+![The 3-Year Simplified Rotation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.RkLpHiPjk0APlwW3-TKUtQHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=fcd56bf252fd2f44b850915d632fa5d80b2c5adf744f810cb4d463b1dc4b32d4&ipo=images)
+
+
 If 4 beds is too complex, a 3-year rotation still provides 75% of the disease-prevention benefit:
 
 | Year | Bed 1 | Bed 2 | Bed 3 |
@@ -79,6 +85,9 @@ Heavy feeders are grouped together because the disease risk between, say, tomato
 - Gardens using grafted vegetable plants (grafted tomatoes on disease-resistant rootstock can tolerate 2-3 years in the same soil)
 
 ## Companion Planting Within the Rotation
+
+![Companion Planting Within the Rotation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.Nmp56tEn5ro_AfwXoezX7wHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=19ee52d1212db2197a1942f0e105d23b64eaea56d9ec3eea6cb0bc4615e2f438&ipo=images)
+
 
 The rotation provides the backbone. Companion planting provides the details. Within each year''s bed assignment:
 
@@ -126,3 +135,4 @@ Yes — this is the advanced version. After harvesting Bed 1''s legumes in Augus
 - [Companion Planting Guide: Science-Backed Combinations](/articles/companion-planting-guide-guide)
 - [Vegetable Garden Planning: Layout and Timing Guide](/articles/vegetable-garden-planning-guide)
 - [Soil Preparation for Garden: Complete Guide](/articles/soil-preparation-for-garden-guide)
+

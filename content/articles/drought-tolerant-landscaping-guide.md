@@ -22,6 +22,9 @@ Drought-tolerant landscaping (xeriscaping) is not a yard full of gravel and cact
 
 ## The 7 Principles of Xeriscape
 
+![The 7 Principles of Xeriscape](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.XEFMfNKb7VSwz42N9jWq_QHaEO%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=2ffd52708b472fa9be8810d0d0d40640a6380f04d59020b435f6334dae7c326a&ipo=images)
+
+
 ### 1. Planning and Design
 Group plants by water needs into hydrozones. Zone 1 (oasis zone, nearest the house): highest water use, irrigated. Zone 2 (transition zone): moderate water, occasional irrigation. Zone 3 (arid zone, farthest from the house): zero supplemental water once established. This prevents the most common xeriscape mistake — mixing thirsty plants with desert plants and either overwatering the desert plants (rot) or underwatering the thirsty ones (death).
 
@@ -87,6 +90,9 @@ Xeriscape is NOT zero-maintenance. It requires weeding, mulch replenishment, sea
 
 ## Lawn Alternatives
 
+![Lawn Alternatives](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.Q8FFz7xXmfqTs_8YdfICxQHaEJ%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f963eb3278c22df90628b1c2a8c812eda0459e49a74c4f18845a277688c8c8a&ipo=images)
+
+
 ### Options That Replace High-Water Turf
 
 | Alternative | Water Savings | Foot Traffic | Cost/sq ft | Notes |
@@ -113,6 +119,9 @@ Many Western water districts pay homeowners to remove lawns. Check your local wa
 **The play**: A 500 sq ft lawn conversion costs $2,500-$5,000 (plants, mulch, drip irrigation). A $3/sq ft rebate refunds $1,500. Your water savings of $300-$600/year pay back the remaining $1,000-$3,500 in 2-6 years. After that, the savings are pure profit.
 
 ## Key Takeaways
+
+![Key Takeaways](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.9d5U5U2IckGS3J12oDyYMwHaFj%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=b076a5bc5fca77e5281f5b8bac61a6a2701b48e2f09ab9182c10dd3769488df7&ipo=images)
+
 
 Xeriscape is not zero-scape. Group plants into hydrozones by water need. Replace non-functional lawn with drought-tolerant ground covers or hardscape. Use 3-4 inches of mulch universally. Install drip irrigation — it is 90% efficient vs. 50-65% for sprinklers. Native plants, once established (6-12 months), survive on rainfall alone. Check your water district for lawn removal rebates — you may be leaving $1,500-$4,800 on the table.
 
@@ -143,3 +152,4 @@ Overwatering during the dry season. Many Mediterranean and desert-adapted plants
 - [Cactus Garden Ideas: Design & Plant Guide](/articles/cactus-garden-ideas-guide)
 - [Succulent Care Guide: Tips for Thriving Succulents](/articles/succulent-care-guide-guide)
 - [Backyard Landscaping Ideas: Complete Design Guide](/articles/backyard-landscaping-ideas-guide)
+

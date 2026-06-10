@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Put a Snake Plant in Your Bedroom — It Releases Oxygen at Night
 
+![1. Put a Snake Plant in Your Bedroom — It Releases Oxygen at Night](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.yoXGitdurPelqpnQWT7NcgHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=8f99d268f54c0e610ff818956e8e70ace2e134a8f7007fb49b2576b87b8377d6&ipo=images)
+
+
 Unlike 99% of plants that only photosynthesize during the day, Snake Plants (Sansevieria) use CAM photosynthesis — absorbing CO2 and releasing oxygen at night. This makes them the only meaningful bedroom air-quality plant. One mature Snake Plant in a 150 sq ft bedroom provides a small but measurable oxygen boost during the 7-9 hours you spend breathing the same air.
 
 ## 2. Spider Plants Remove 95% of Formaldehyde — and They Are Pet-Safe
+
+![2. Spider Plants Remove 95% of Formaldehyde — and They Are Pet-Safe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.9V56iAETTT0GvX3wp4NLNwHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ec1dcacf60c87605036166593d9fa1a04e8927076e98bbe51fefa0f23381d45d&ipo=images)
+
 
 Formaldehyde off-gasses from particle board furniture, carpet glue, and plywood — it is the most common indoor VOC. A 2016 study found spider plants removed 95% of formaldehyde from a sealed chamber in 24 hours, the highest single-species rate. Bonus: they are 100% non-toxic to cats and dogs (ASPCA confirmed), making them the #1 recommendation for pet owners.
 
@@ -58,3 +64,4 @@ Aloe removes formaldehyde and benzene. The inner gel treats minor burns and cuts
 - [Air Purifying Plants: Complete NASA Guide & Care Tips](/articles/air-purifying-plants-guide)
 - [Low Light Indoor Plants: Best Species for Dark Rooms](/articles/low-light-indoor-plants-guide)
 - [Indoor Plant Care: Complete Guide to Keeping Houseplants Alive](/articles/indoor-plant-care-guide)
+

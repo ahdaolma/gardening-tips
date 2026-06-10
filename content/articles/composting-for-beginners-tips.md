@@ -15,9 +15,15 @@ keywords:
 
 ## 1. 3 Parts Browns to 1 Part Greens by Volume — Memorize This Ratio
 
+![1. 3 Parts Browns to 1 Part Greens by Volume — Memorize This Ratio](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TlcN0DlEwD1cqgjwzcI2_gHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=19c6b0e5c2c3df6fee034c56fc6cd4f0edc2f918961275d348fe1b132292bff6&ipo=images)
+
+
 Browns = carbon (dried leaves, straw, cardboard, sawdust). Greens = nitrogen (kitchen scraps, grass clippings, coffee grounds). 3 buckets of browns for every 1 bucket of greens. Too many greens = ammonia stink and slime. Too many browns = cold pile that takes a year. Get this ratio right and everything else is easy.
 
 ## 2. A $15 Compost Thermometer Tells You Exactly What Is Wrong
+
+![2. A $15 Compost Thermometer Tells You Exactly What Is Wrong](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
 
 A probe thermometer with a 20-inch stem ($15 at any garden center) is the single most useful composting tool. 130-150°F: pile is working perfectly. Below 110°F: add greens or water. Above 160°F: turn the pile (too hot kills beneficial bacteria). No other diagnostic tool gives you such clear feedback.
 
@@ -58,3 +64,4 @@ Dark brown, crumbly, no recognizable original materials. Smells like soil after 
 - [Composting for Beginners: Complete Guide](/articles/composting-for-beginners-guide)
 - [Soil Preparation for Garden: Complete Guide](/articles/soil-preparation-for-garden-guide)
 - [Natural Fertilizer Guide: Organic Options That Work](/articles/natural-fertilizer-guide-guide)
+

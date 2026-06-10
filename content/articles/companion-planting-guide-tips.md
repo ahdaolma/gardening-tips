@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Basil + Tomatoes Is the Most Proven Pairing in Companion Planting
 
+![1. Basil + Tomatoes Is the Most Proven Pairing in Companion Planting](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.N3b6jZpmalnsWe6YX3BGyQHaEK%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=5bb3fe43bdb721df054ded88db540ed77d8a90832cc9cbe7ee1615a8ca892622&ipo=images)
+
+
 University of Florida research (2020) showed 30-40% fewer thrips and whiteflies on tomatoes interplanted with basil. Anecdotally, many gardeners report improved tomato flavor when basil grows nearby — the mechanism is unconfirmed but widely observed. Plant basil 12 inches from tomato stems. One basil per 2-3 tomato plants.
 
 ## 2. French Marigolds Suppress Nematodes — But Only If Used Correctly
+
+![2. French Marigolds Suppress Nematodes — But Only If Used Correctly](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.RkLpHiPjk0APlwW3-TKUtQHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=fcd56bf252fd2f44b850915d632fa5d80b2c5adf744f810cb4d463b1dc4b32d4&ipo=images)
+
 
 French marigold (Tagetes patula) roots exude alpha-terthienyl, a compound toxic to root-knot nematodes. African marigolds (T. erecta) do not have this effect. The protocol: grow French marigolds as a dense cover crop for an entire season, then till them into the soil. A few marigolds at the bed edge provide minimal nematode suppression but do offer mild above-ground pest repellency.
 
@@ -58,3 +64,4 @@ Companion planting reduces pest pressure 15-60% this season. Crop rotation preve
 - [Companion Planting Guide: Science-Backed Combinations](/articles/companion-planting-guide-guide)
 - [Vegetable Garden Planning: Layout and Timing Guide](/articles/vegetable-garden-planning-guide)
 - [Organic Pest Control: Natural Methods That Work](/articles/organic-pest-control-guide)
+

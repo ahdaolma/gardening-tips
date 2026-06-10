@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for a Thriving Jade Plant
 
+![10 Tips for a Thriving Jade Plant](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
+
 ---
 
 ### 1. The Chopstick Test
@@ -61,4 +64,8 @@ If your jade needs repotting and is about to bloom: wait. Repotting during the b
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.kgjvFcgTF7avIDdGYJ6aeQHaD4%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f2d57139ce2ddeca8c86726e7e294930f5d5fbb558df2a60db648fa366e8de0&ipo=images)
+
+
 Jade plants reward neglect and punish helicopter plant-parents. Water when bone-dry. Prune hard for thick trunks. Give it outdoor summers. And never, ever mist it.
+

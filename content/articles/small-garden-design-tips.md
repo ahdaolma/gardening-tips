@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Making a Small Garden Feel Larger
 
+![10 Tips for Making a Small Garden Feel Larger](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
+
 ---
 
 ### 1. Lay Paving on the Diagonal
@@ -61,4 +64,8 @@ A small garden cannot have year-round blooms. It CAN have year-round structure. 
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 The best small gardens use every trick: diagonal paving, cool colors at the back, raised canopies, dark fences. But the most important tip: edit ruthlessly. Remove anything that is not earning its space. In a small garden, every plant, every pot, every piece of furniture is a decision. Make each one intentional.
+

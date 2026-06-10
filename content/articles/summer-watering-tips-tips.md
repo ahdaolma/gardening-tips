@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Summer Watering Tips
 
+![10 Summer Watering Tips](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZJG8_SGUiz-D2LSNbO27UgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=bab7a7a92c3d6574a22fe8e7cf0e58635082c5c8ee54d98cafcfa8e0ebb34740&ipo=images)
+
+
 ---
 
 ### 1. The Tuna Can Rain Gauge
@@ -50,4 +53,8 @@ If you travel and cannot water for a week during a heat wave: drape 30-40% shade
 ---
 
 ## Key Takeaway
+
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9FmLZtZ60hYB6kZ_nLAuJQHaHW%3Fr%3D0%26pid%3DApi&f=1&ipt=1f882d5fdcd158b4ffb96fcf73ad06ca72014743b217e722b0b4337550b7d8f9&ipo=images)
+
 Water deeply, water in the morning, and mulch everything. The 1-inch rule (tuna can test) eliminates guesswork. Group thirsty plants together. And if you invest in one thing: drip irrigation on a timer. It saves water, prevents disease, and automates the #1 summer chore.
+

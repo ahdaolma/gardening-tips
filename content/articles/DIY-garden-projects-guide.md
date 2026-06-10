@@ -32,6 +32,9 @@ Total: $200-$280. These tools pay for themselves on the first project compared t
 
 ## Project 1: The $45 Cedar Raised Bed (4'' × 8'' × 12")
 
+![Project 1: The $45 Cedar Raised Bed (4'' × 8'' × 12")](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
+
 The standard vegetable garden raised bed. Western red cedar resists rot for 8-12 years without chemical treatment.
 
 **Materials** (for one 4'' × 8'' × 12" bed):
@@ -75,6 +78,9 @@ A single wooden pallet (look for "HT" heat-treated stamp, not "MB" methyl bromid
 
 ## Project 3: DIY Cold Frame ($40-$60)
 
+![Project 3: DIY Cold Frame ($40-$60)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
+
 Extends the growing season by 4-6 weeks in spring and fall. A bottomless box with a transparent lid that captures solar heat.
 
 **Materials**:
@@ -114,6 +120,9 @@ A 55-gallon food-grade barrel that captures roof runoff. 1 inch of rain on a 500
 **Legal note**: Rainwater harvesting is legal in all 50 states as of 2024, but some states (Colorado, Utah) have restrictions on total capacity. Check local regulations before installing multiple barrels.
 
 ## Project 5: Pea Gravel Garden Path ($80-$150)
+
+![Project 5: Pea Gravel Garden Path ($80-$150)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
 
 A 30-foot-long × 3-foot-wide path that drains instantly, costs less than pavers, and can be installed in 4 hours.
 
@@ -172,3 +181,4 @@ Western red cedar — 8-12 year lifespan, naturally rot-resistant, no chemical t
 - [Raised Bed Gardening: Complete Guide to Design & Soil](/articles/raised-bed-gardening-guide)
 - [Building a Garden Trellis: 5 DIY Designs](/articles/building-garden-trellis-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

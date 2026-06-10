@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for a Professional Perennial Border
 
+![10 Tips for a Professional Perennial Border](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.tKDkg97MHumLOPg4i0gLqAHaE0%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=62ce0b5b99af7df19eeac2196d9dd7f5ecc1a42b3afdf62113b71a99e03c844c&ipo=images)
+
+
 ---
 
 ### 1. The Chelsea Chop
@@ -61,4 +64,8 @@ If you are starting from scratch: 5 Coneflower ($30), 5 Black-Eyed Susan ($30), 
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.fgDndlLtdLVyuXi649TG5wHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=1188e4a78bf4d6f0dfe1da233ae00bfc54787d9ed947e96dc8a2c46e572a36c6&ipo=images)
+
+
 The perennial garden matures over 3-5 years. Year 1: "sleep" (roots establish). Year 2: "creep" (moderate growth). Year 3: "leap" (plants reach mature size). Plant for year 3, not year 1 — if you fill every gap in year 1, you will be dividing and moving plants by year 3. Give them space. Let them grow into it.
+

@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Define Bed Lines With Steel Edging — It Is the $100 Transformation
 
+![1. Define Bed Lines With Steel Edging — It Is the $100 Transformation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.kz5-tD6fE9Rm4kAcWUggbwHaD4%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=14f0739fd43940de30066142f26806562b9a5608f8fef91b5fcae8e8f78a5ccb&ipo=images)
+
+
 The single biggest visual upgrade for under $100: install steel landscape edging along every planting bed. Clean lines instantly make an overgrown yard look designed. Steel edging ($1.50/linear foot at big-box stores) lasts 20+ years vs. plastic edging that heaves out of the ground within 3 winters. Install by digging a 4-inch trench, setting the edging so 1 inch is visible above grade.
 
 ## 2. A 6-Inch Compacted Gravel Base Is More Important Than the Pavers
+
+![2. A 6-Inch Compacted Gravel Base Is More Important Than the Pavers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
 
 The #1 DIY hardscape failure: skimping on the gravel base. Pavers, flagstone, and concrete all require 4-6 inches of compacted ¾-inch angular gravel (not pea gravel — angular gravel locks together; pea gravel rolls like ball bearings). Two inches of gravel will fail within 2 years. Rent a plate compactor ($75/day) and compact in 2-inch lifts. The base is invisible, and it is everything.
 
@@ -58,3 +64,4 @@ Landscape lighting with a $2,500 installation cost returns $4,500 at resale (NAR
 - [Backyard Landscaping Ideas: Complete Design & Budget Guide](/articles/backyard-landscaping-ideas-guide)
 - [Front Yard Curb Appeal: Design and Planting Guide](/articles/front-yard-curb-appeal-guide)
 - [Drought Tolerant Landscaping: Complete Guide](/articles/drought-tolerant-landscaping-guide)
+

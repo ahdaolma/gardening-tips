@@ -22,6 +22,9 @@ The wrong plant becomes an invasive nightmare that consumes neighboring beds and
 
 ## By Condition: Quick Reference
 
+![By Condition: Quick Reference](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.0bki-eKGlqgFyhf9mqSL6QHaE8%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=d2076e8d920bc5c4df1abce6c39db3ca9153e46f6f3505f219e26361e3eee6ab&ipo=images)
+
+
 ### Full Sun, Dry Soil (The Hardest Condition)
 | Plant | Height | Spread Rate | Spacing | Foot Traffic | Zones |
 |-------|--------|-------------|---------|-------------|-------|
@@ -62,6 +65,9 @@ Most ground covers tolerate zero foot traffic — one step crushes the foliage a
 | Blue Star Creeper (Isotoma fluviatilis) | Light to moderate | Tiny blue star-shaped flowers. Spreads quickly (18-24"/year). Can be invasive in moist climates — contain with edging. |
 
 ## Erosion Control on Slopes
+
+![Erosion Control on Slopes](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.hPWS3cWWuF5T25lW6FbNFgHaGC%3Fr%3D0%26cb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=ee8bd425091a9c4bc4f450d17c0fd68af0614950814b83ffe23a48d53ea7e294&ipo=images)
+
 
 A slope over 10% grade cannot be safely mowed. Ground covers are the permanent solution — their roots hold soil better than grass because they form a dense, fibrous mat rather than individual plants.
 
@@ -131,3 +137,4 @@ The soil under pines is dry, acidic (pH 4.5-5.5 from decomposing needles), and s
 - [Drought Tolerant Landscaping: Complete Design Guide](/articles/drought-tolerant-landscaping-guide)
 - [Shade Garden Plants: Best Species for Low Light](/articles/shade-garden-plants-guide)
 - [Small Garden Design: Maximizing Limited Space](/articles/small-garden-design-guide)
+

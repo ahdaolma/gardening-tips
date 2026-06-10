@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Strong, Stocky Seedlings
 
+![10 Tips for Strong, Stocky Seedlings](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EVNbsBEzGQHAiNEvixIFAgHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=a67b45d043be844b47e0ab40675567516bf91826ddbfb3fcf2ea62d5581a113c&ipo=images)
+
+
 ---
 
 ### 1. Brush Seedlings Daily
@@ -61,4 +64,8 @@ A simple spreadsheet or garden journal entry: variety name, date started, germin
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.RPP54JLOpzjc7xVWWe07GgHaLG%3Fr%3D0%26pid%3DApi&f=1&ipt=4f6c1ecfe50fda323c41d6cd6a033d6a86351eca9ea9f68f64b0768f7fd53002&ipo=images)
+
+
 Strong seedlings come from: lights 2 inches above plants, a fan for stem strength, half-strength fertilizer after true leaves, and daily brushing. The $40 shop light setup produces better seedlings than a $400 grow tent if you follow these rules. It is about technique, not equipment.
+

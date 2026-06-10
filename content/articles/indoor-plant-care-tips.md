@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Indoor Plant Tips That Actually Work
 
+![10 Indoor Plant Tips That Actually Work](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.N0_luOs6sPFGA_af8hsLMQHaE8%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=96340b3c5b04c892b08a0944899501658d0cce8f0d5f0b57491462ff82921113&ipo=images)
+
+
 ---
 
 ### 1. Use the "Taco Test" for Watering
@@ -61,4 +64,8 @@ Not every plant thrives in every home. If a plant has declined for 3+ months des
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.yoXGitdurPelqpnQWT7NcgHaHa%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=8f99d268f54c0e610ff818956e8e70ace2e134a8f7007fb49b2576b87b8377d6&ipo=images)
+
+
 Plants die slowly — you have weeks to notice and fix problems. Water less, check light with a meter, shower plants monthly, and use the cachepot system for drainage. Most indoor plant problems are solved by watering correctly and providing adequate light.
+

@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Succulent Propagation Success
 
+![10 Tips for Succulent Propagation Success](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.Q8FFz7xXmfqTs_8YdfICxQHaEJ%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f963eb3278c22df90628b1c2a8c812eda0459e49a74c4f18845a277688c8c8a&ipo=images)
+
+
 ---
 
 ### 1. Water the Mother Plant 3 Days Before Propagating
@@ -61,4 +64,8 @@ Succulent cuttings root faster at 70-75°F soil temperature. A seedling heat mat
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.9d5U5U2IckGS3J12oDyYMwHaFj%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=b076a5bc5fca77e5281f5b8bac61a6a2701b48e2f09ab9182c10dd3769488df7&ipo=images)
+
+
 Succulent propagation is a numbers game. Harvest 30% more leaves than you want plants (some will fail). Sort by quality. Keep everything dry until roots form. Use shallow trays with airflow. Water from below once rooted. And be patient — some succulents take 3+ months from leaf to independent plant.
+

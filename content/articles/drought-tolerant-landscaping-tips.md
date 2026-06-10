@@ -15,9 +15,15 @@ keywords:
 
 ## 1. Group Plants Into 3 Hydrozones — Never Mix Thirsty With Desert Plants
 
+![1. Group Plants Into 3 Hydrozones — Never Mix Thirsty With Desert Plants](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.XEFMfNKb7VSwz42N9jWq_QHaEO%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=2ffd52708b472fa9be8810d0d0d40640a6380f04d59020b435f6334dae7c326a&ipo=images)
+
+
 Zone 1 (oasis, near house): highest water, drip irrigated. Zone 2 (transition): moderate water. Zone 3 (arid, far from house): zero supplemental water after establishment. Mixing zones is the #1 xeriscape mistake — either the drought plants rot or the thirsty plants die.
 
 ## 2. Ceanothus, Manzanita, and Cleveland Sage Die From Summer Water
+
+![2. Ceanothus, Manzanita, and Cleveland Sage Die From Summer Water](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.Q8FFz7xXmfqTs_8YdfICxQHaEJ%3Fr%3D0%26cb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f963eb3278c22df90628b1c2a8c812eda0459e49a74c4f18845a277688c8c8a&ipo=images)
+
 
 These Mediterranean-climate shrubs evolved with bone-dry summers. Watering them June-September triggers Phytophthora root rot — the #1 killer of California native plants. If a plant is labeled "Zone 3 — no summer water," that is not a suggestion. It means zero supplemental water in summer.
 
@@ -58,3 +64,4 @@ Xeriscape requires: weeding (mulch helps but doesn''t eliminate), mulch replenis
 - [Drought Tolerant Landscaping: Complete Design Guide](/articles/drought-tolerant-landscaping-guide)
 - [Cactus Garden Ideas: Design & Plant Guide](/articles/cactus-garden-ideas-guide)
 - [Backyard Landscaping Ideas: Complete Design Guide](/articles/backyard-landscaping-ideas-guide)
+

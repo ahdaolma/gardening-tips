@@ -28,6 +28,9 @@ Choosing the wrong type for your goals is the #1 strawberry mistake. The three c
 
 ## Best Varieties by Region
 
+![Best Varieties by Region](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zf6aW7ClYJw7SdbGA2PZbQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=75cb641d3afff8020f30fe6b88cb35f0cbd8a24fa8018ff70351dc61378afe67&ipo=images)
+
+
 | Region | June-Bearing | Day-Neutral / Everbearing |
 |--------|-------------|--------------------------|
 | Northeast / Midwest (Zones 4-6) | ''Jewel'', ''Earliglow'', ''Honeoye'', ''Cavendish'' | ''Albion'' (day-neutral, best flavor of all day-neutrals), ''Seascape'' |
@@ -67,6 +70,9 @@ Strawberries have shallow roots (6-8 inches deep) and thrive in containers. A 12
 
 ## The Year 1 Sacrifice: Why You Must Remove All Flowers
 
+![The Year 1 Sacrifice: Why You Must Remove All Flowers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.uZg4I4UiSLAYKsK7dVx4xQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=9864e1cd1fd68e66245ea1ecd204e768fd4eb1432a69f40f9f015e768323856f&ipo=images)
+
+
 This is the hardest advice for new strawberry growers to follow, and the most important. A June-bearing strawberry planted in spring will produce flowers and fruit that same year. If you allow it to fruit, you harvest approximately 0.3-0.5 lbs of berries — and the plant enters year 2 with an underdeveloped root system and crown.
 
 If you remove every flower in year 1, you harvest zero berries — and the plant develops a massive root system and crown with 3-5 branch crowns (growing points). Year 2 yield: 1-2 lbs per plant — 3-5x more than if you had harvested in year 1. The total 2-year yield with year-1 flower removal is higher than without.
@@ -86,6 +92,9 @@ Runners (stolons) are horizontal stems that grow outward from the mother plant a
 - Remove ALL runners. Every one. The plant has finite energy — a runner costs the plant the equivalent of 5-10 berries in lost fruit production. Day-neutral and everbearing varieties are selected for low runner production specifically because runners compete with fruit.
 
 ## Renovation (June-Bearing Only)
+
+![Renovation (June-Bearing Only)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.iskDOqQNhjcd-8HYfDbWQQHaEt%3Fr%3D0%26pid%3DApi&f=1&ipt=ebf72105612b13593e7ca82bbf89e5e749864b06e9c5a032b267671814ac40e6&ipo=images)
+
 
 After the June harvest, June-bearing strawberry beds must be renovated annually. This is the 30-minute task that maintains productivity for 3-5 years:
 
@@ -148,3 +157,4 @@ Yes — strawberries are excellent companions for bush beans, borage, and onions
 - [Blueberry Bush Care: Complete Growing Guide](/articles/blueberry-bush-care-guide)
 - [Dwarf Fruit Trees: Best Varieties for Small Spaces](/articles/dwarf-fruit-trees-guide)
 - [Raised Bed Gardening: Complete Guide](/articles/raised-bed-gardening-guide)
+

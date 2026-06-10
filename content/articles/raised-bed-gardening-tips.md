@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Raised Bed Productivity
 
+![10 Tips for Raised Bed Productivity](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.RkLpHiPjk0APlwW3-TKUtQHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=fcd56bf252fd2f44b850915d632fa5d80b2c5adf744f810cb4d463b1dc4b32d4&ipo=images)
+
+
 ---
 
 ### 1. Cardboard Under the Bed = Zero Weeds
@@ -67,4 +70,8 @@ Crop rotation in raised beds matters less than in-ground (the soil is essentiall
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.Nmp56tEn5ro_AfwXoezX7wHaEO%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=19ee52d1212db2197a1942f0e105d23b64eaea56d9ec3eea6cb0bc4615e2f438&ipo=images)
+
+
 Raised beds concentrate effort and resources. Cardboard underneath eliminates weeds. Drip irrigation on a timer eliminates watering guesswork. A PVC hoop house extends the season. And a 4-season planting calendar means your beds are never empty. One well-managed 4×8 raised bed produces more food than a 10×20 in-ground garden.
+

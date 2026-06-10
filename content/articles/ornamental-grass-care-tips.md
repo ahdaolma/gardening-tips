@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Tips for Ornamental Grass Mastery
 
+![10 Tips for Ornamental Grass Mastery](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.kgjvFcgTF7avIDdGYJ6aeQHaD4%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=7f2d57139ce2ddeca8c86726e7e294930f5d5fbb558df2a60db648fa366e8de0&ipo=images)
+
+
 ---
 
 ### 1. Bundle Before You Cut
@@ -61,4 +64,8 @@ Most ornamental grasses require well-drained soil. The exception: Switchgrass (P
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.fgDndlLtdLVyuXi649TG5wHaE7%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=1188e4a78bf4d6f0dfe1da233ae00bfc54787d9ed947e96dc8a2c46e572a36c6&ipo=images)
+
+
 Ornamental grasses ask for almost nothing: one haircut per year, no fertilizer, water only in drought. The key decisions: cool-season vs warm-season (affects when they green up and when you cut back), clumping vs running (barrier or no barrier), and the right grass for the right soil moisture. Get those right and grasses do the rest.
+
