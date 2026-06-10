@@ -1,4 +1,4 @@
-import { Metadata } from 'next';
+﻿import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
@@ -83,7 +83,7 @@ export default async function ArticlePage({ params }: Props) {
           <h1 className='text-3xl md:text-4xl font-bold mt-2 mb-4'>{article.title}</h1>
           <div className='flex items-center gap-3 text-sm text-gray-500'>
             <time dateTime={article.date}>{article.date}</time>
-            <span>·</span>
+            <span>路</span>
             <span>{article.readTime} min read</span>
           </div>
         </header>
@@ -117,3 +117,4 @@ export default async function ArticlePage({ params }: Props) {
     </>
   );
 }
+

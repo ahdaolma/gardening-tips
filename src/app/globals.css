@@ -1,25 +1,55 @@
-@tailwind base;
+﻿@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  }
-  h1 { @apply text-3xl font-bold mb-4; }
-  h2 { @apply text-2xl font-semibold mb-3 mt-8; }
-  h3 { @apply text-xl font-semibold mb-2 mt-6; }
-  p { @apply mb-4 leading-relaxed; }
-  ul, ol { @apply mb-4 pl-6; }
-  li { @apply mb-1; }
-  a { @apply text-blue-600 hover:underline; }
+:root {
+  --soil: #3D2B1F;
+  --leaf: #16A34A;
+  --leaf-light: #4ADE80;
+  --moss: #1A2E1A;
+  --bark: #2D1F14;
+  --sunlight: #FDE68A;
 }
 
-.ad-slot {
-  @apply bg-gray-100 border border-dashed border-gray-300 rounded-lg p-6 text-center my-8;
-  min-height: 250px;
+@layer base {
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: linear-gradient(180deg, #0A1A0F 0%, #0F1F14 100%);
+    color: #D1E8D2;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  h1 { font-family: 'Georgia', serif; @apply text-4xl md:text-5xl font-bold mb-6 leading-tight; }
+  h2 { @apply text-2xl font-bold mb-4 mt-10; color: #4ADE80; }
+  h3 { @apply text-xl font-semibold mb-3 mt-8; color: #86EFAC; }
+  p { @apply mb-5 leading-relaxed text-gray-300; }
+  a { color: #4ADE80; @apply hover:underline; }
+  img { @apply rounded-2xl my-6 shadow-lg; }
 }
-.ad-slot::before {
-  content: 'Advertisement';
-  @apply text-gray-400 text-xs uppercase tracking-wider;
+
+@layer components {
+  .leaf-card {
+    background: linear-gradient(180deg, #132A1A 0%, #1A3522 100%);
+    border: 1px solid #2A4A2A;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+  }
+  .leaf-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 32px rgba(22, 163, 74, 0.2);
+    border-color: #16A34A;
+  }
+  
+  .season-tag { @apply inline-block px-3 py-1 rounded-full text-xs font-semibold; }
+  .season-spring { background: rgba(74, 222, 128, 0.2); color: #4ADE80; }
+  .season-summer { background: rgba(253, 224, 71, 0.2); color: #FDE047; }
+  .season-fall { background: rgba(251, 146, 60, 0.2); color: #FB923C; }
+  .season-winter { background: rgba(147, 197, 253, 0.2); color: #93C5FD; }
+  
+  .plant-icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 12px;
+  }
 }
