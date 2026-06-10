@@ -1,8 +1,9 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
+  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   metadataBase: new URL("https://gardening-tips.vercel.app"),
   title: { default: "Gardening Tips | Grow Something Beautiful 2026", template: "%s | Gardening Tips" },
   description: "Expert gardening guides, plant care tips, landscaping ideas, and sustainable growing advice.",
